@@ -1,0 +1,6 @@
+collections:
+  Ended Shows:
+    summary: Shows that have ended
+    plex_all: true
+    filters:
+      tmdb_status: ended

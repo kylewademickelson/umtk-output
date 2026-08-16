@@ -1,0 +1,5 @@
+collections:
+  Upcoming Movies:
+    plex_all: true
+    item_label.remove: Upcoming Movies
+    build_collection: false

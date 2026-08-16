@@ -1,0 +1,15 @@
+overlays:
+  backdrop_new_show:
+    plex_all: true
+    filters:
+      added: 7
+      label.not: Coming Soon, RequestNeeded
+    overlay:
+      name: backdrop
+  new_show:
+    plex_all: true
+    filters:
+      added: 7
+      label.not: Coming Soon, RequestNeeded
+    overlay:
+      name: text(New Show)

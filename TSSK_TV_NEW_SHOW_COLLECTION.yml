@@ -1,0 +1,7 @@
+collections:
+  New Shows:
+    summary: New Shows added in the past 7 days
+    plex_all: true
+    filters:
+      added: 7
+      label.not: Coming Soon

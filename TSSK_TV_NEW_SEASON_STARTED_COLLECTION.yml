@@ -1,0 +1,5 @@
+collections:
+  ? ''
+  : plex_all: true
+    item_label.remove: ''
+    build_collection: false

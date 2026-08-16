@@ -1,0 +1,13 @@
+overlays:
+  backdrop_returning:
+    plex_all: true
+    filters:
+      tmdb_status: returning
+    overlay:
+      name: backdrop
+  returning_show:
+    plex_all: true
+    filters:
+      tmdb_status: returning
+    overlay:
+      name: text(Returning)

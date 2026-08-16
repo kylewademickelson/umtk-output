@@ -1,0 +1,13 @@
+overlays:
+  backdrop_canceled:
+    plex_all: true
+    filters:
+      tmdb_status: canceled
+    overlay:
+      name: backdrop
+  canceled_show:
+    plex_all: true
+    filters:
+      tmdb_status: canceled
+    overlay:
+      name: text(Canceled)
