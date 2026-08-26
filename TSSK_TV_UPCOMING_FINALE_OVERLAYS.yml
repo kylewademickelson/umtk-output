@@ -1,1 +1,42 @@
-#No matching shows found
+overlays:
+  backdrop_upcoming_finale:
+    overlay:
+      name: backdrop
+    tvdb_show: 72231, 72746, 73983, 74921, 80117, 80552, 82177, 82623, 85074, 212411,
+      248699, 249785, 254243, 275413, 301005, 305621, 320066, 322630, 362161, 364107,
+      370969, 371031, 375704, 375903, 394571, 410241, 421306, 422444, 424620, 424671,
+      449601, 451286, 455420, 462152, 462404, 465753, 468000, 475770, 477046, 477092,
+      479490, 479561, 480636, 480896
+  TSSK_TODAY:
+    overlay:
+      name: text(New Season TODAY)
+    tvdb_show: '375903'
+  TSSK_TOMORROW:
+    overlay:
+      name: text(New Season TOMORROW)
+    tvdb_show: 73983, 249785, 375704, 424671, 462404, 465753, 475770
+  TSSK_THURSDAY:
+    overlay:
+      name: text(New Season THURSDAY)
+    tvdb_show: 80117, 82177, 254243, 301005, 362161
+  TSSK_FRIDAY:
+    overlay:
+      name: text(New Season FRIDAY)
+    tvdb_show: 72231, 82623, 85074, 322630, 421306, 449601, 479490, 480896
+  TSSK_SUNDAY:
+    overlay:
+      name: text(New Season SUNDAY)
+    tvdb_show: 74921, 370969, 394571, 451286, 477046, 480636
+  TSSK_MONDAY:
+    overlay:
+      name: text(New Season MONDAY)
+    tvdb_show: 72746, 212411, 248699, 275413, 305621, 320066, 364107, 371031, 455420,
+      468000, 477092, 479561
+  TSSK_2026-09-01:
+    overlay:
+      name: text(New Season 2026-09-01)
+    tvdb_show: 80552, 410241, 422444, 424620
+  TSSK_2026-09-03:
+    overlay:
+      name: text(New Season 2026-09-03)
+    tvdb_show: '462152'

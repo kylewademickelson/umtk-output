@@ -1,1 +1,106 @@
-#No matching shows found
+overlays:
+  backdrop_new_season:
+    overlay:
+      name: backdrop
+    tvdb_show: 70600, 71256, 71756, 74806, 74897, 75117, 75897, 76733, 82918, 83127,
+      84669, 116811, 183411, 230991, 250487, 252984, 268009, 274453, 298905, 301567,
+      314087, 354216, 356338, 372264, 372309, 374284, 384968, 389492, 392209, 393159,
+      395985, 398399, 406321, 413871, 426845, 429964, 433263, 435958, 442655, 446065,
+      446397, 446526, 446831, 447569, 448833, 449872, 450857, 453187, 453907, 454711,
+      457781, 457800, 461892, 462451, 462583, 462906, 463505, 463593, 463595, 466025
+  TSSK_TOMORROW:
+    overlay:
+      name: text(New Season TOMORROW)
+    tvdb_show: 274453, 406321, 448833
+  TSSK_THURSDAY:
+    overlay:
+      name: text(New Season THURSDAY)
+    tvdb_show: 183411, 393159, 446065, 457800
+  TSSK_SUNDAY:
+    overlay:
+      name: text(New Season SUNDAY)
+    tvdb_show: 384968, 395985, 453907
+  TSSK_2026-09-01:
+    overlay:
+      name: text(New Season 2026-09-01)
+    tvdb_show: 374284, 446397, 457781
+  TSSK_2026-09-02:
+    overlay:
+      name: text(New Season 2026-09-02)
+    tvdb_show: '446526'
+  TSSK_2026-09-03:
+    overlay:
+      name: text(New Season 2026-09-03)
+    tvdb_show: 298905, 356338, 426845
+  TSSK_2026-09-04:
+    overlay:
+      name: text(New Season 2026-09-04)
+    tvdb_show: 82918, 268009, 314087
+  TSSK_2026-09-05:
+    overlay:
+      name: text(New Season 2026-09-05)
+    tvdb_show: '71756'
+  TSSK_2026-09-07:
+    overlay:
+      name: text(New Season 2026-09-07)
+    tvdb_show: '461892'
+  TSSK_2026-09-08:
+    overlay:
+      name: text(New Season 2026-09-08)
+    tvdb_show: 71256, 74806, 84669, 230991, 398399, 413871, 447569
+  TSSK_2026-09-09:
+    overlay:
+      name: text(New Season 2026-09-09)
+    tvdb_show: '449872'
+  TSSK_2026-09-12:
+    overlay:
+      name: text(New Season 2026-09-12)
+    tvdb_show: 453187, 462451
+  TSSK_2026-09-13:
+    overlay:
+      name: text(New Season 2026-09-13)
+    tvdb_show: '252984'
+  TSSK_2026-09-14:
+    overlay:
+      name: text(New Season 2026-09-14)
+    tvdb_show: 301567, 450857
+  TSSK_2026-09-15:
+    overlay:
+      name: text(New Season 2026-09-15)
+    tvdb_show: 372264, 462583, 466025
+  TSSK_2026-09-16:
+    overlay:
+      name: text(New Season 2026-09-16)
+    tvdb_show: 75897, 354216, 372309
+  TSSK_2026-09-17:
+    overlay:
+      name: text(New Season 2026-09-17)
+    tvdb_show: 116811, 389492, 462906
+  TSSK_2026-09-18:
+    overlay:
+      name: text(New Season 2026-09-18)
+    tvdb_show: 429964, 446831, 454711
+  TSSK_2026-09-19:
+    overlay:
+      name: text(New Season 2026-09-19)
+    tvdb_show: '83127'
+  TSSK_2026-09-21:
+    overlay:
+      name: text(New Season 2026-09-21)
+    tvdb_show: 75117, 392209, 463595
+  TSSK_2026-09-22:
+    overlay:
+      name: text(New Season 2026-09-22)
+    tvdb_show: 433263, 463505
+  TSSK_2026-09-23:
+    overlay:
+      name: text(New Season 2026-09-23)
+    tvdb_show: 76733, 442655, 463593
+  TSSK_2026-09-24:
+    overlay:
+      name: text(New Season 2026-09-24)
+    tvdb_show: 74897, 250487, 435958
+  TSSK_2026-09-25:
+    overlay:
+      name: text(New Season 2026-09-25)
+    tvdb_show: '70600'
