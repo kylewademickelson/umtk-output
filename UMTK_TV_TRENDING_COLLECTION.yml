@@ -1,0 +1,11 @@
+collections:
+  Trending Shows:
+    tvdb_show: 376098, 366924, 403245, 383203, 468000, 371572, 459552, 388589, 382389,
+      465292
+    sync_mode: sync
+  RequestNeededTV:
+    item_label: RequestNeeded
+    non_item_remove_label: RequestNeeded
+    build_collection: false
+    sync_mode: append
+    tvdb_show: '376098'

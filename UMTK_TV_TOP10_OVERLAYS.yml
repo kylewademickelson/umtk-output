@@ -1,0 +1,46 @@
+overlays:
+  backdrop_trending_top_10_tvdb:
+    overlay:
+      name: backdrop
+    tvdb_show: 376098, 366924, 403245, 383203, 468000, 371572, 459552, 388589, 382389,
+      465292
+  trending_top10_1_tvdb:
+    overlay:
+      name: text(1)
+    tvdb_show: '376098'
+  trending_top10_2_tvdb:
+    overlay:
+      name: text(2)
+    tvdb_show: '366924'
+  trending_top10_3_tvdb:
+    overlay:
+      name: text(3)
+    tvdb_show: '403245'
+  trending_top10_4_tvdb:
+    overlay:
+      name: text(4)
+    tvdb_show: '383203'
+  trending_top10_5_tvdb:
+    overlay:
+      name: text(5)
+    tvdb_show: '468000'
+  trending_top10_6_tvdb:
+    overlay:
+      name: text(6)
+    tvdb_show: '371572'
+  trending_top10_7_tvdb:
+    overlay:
+      name: text(7)
+    tvdb_show: '459552'
+  trending_top10_8_tvdb:
+    overlay:
+      name: text(8)
+    tvdb_show: '388589'
+  trending_top10_9_tvdb:
+    overlay:
+      name: text(9)
+    tvdb_show: '382389'
+  trending_top10_10_tvdb:
+    overlay:
+      name: text(10)
+    tvdb_show: '465292'

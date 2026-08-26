@@ -1,0 +1,46 @@
+overlays:
+  backdrop_trending_top_10:
+    overlay:
+      name: backdrop
+    tmdb_movie: 1288445, 969681, 1084244, 1315772, 950028, 1339713, 1368337, 1101383,
+      1621552, 1212763
+  trending_top10_1:
+    overlay:
+      name: text(1)
+    tmdb_movie: '1288445'
+  trending_top10_2:
+    overlay:
+      name: text(2)
+    tmdb_movie: '969681'
+  trending_top10_3:
+    overlay:
+      name: text(3)
+    tmdb_movie: '1084244'
+  trending_top10_4:
+    overlay:
+      name: text(4)
+    tmdb_movie: '1315772'
+  trending_top10_5:
+    overlay:
+      name: text(5)
+    tmdb_movie: '950028'
+  trending_top10_6:
+    overlay:
+      name: text(6)
+    tmdb_movie: '1339713'
+  trending_top10_7:
+    overlay:
+      name: text(7)
+    tmdb_movie: '1368337'
+  trending_top10_8:
+    overlay:
+      name: text(8)
+    tmdb_movie: '1101383'
+  trending_top10_9:
+    overlay:
+      name: text(9)
+    tmdb_movie: '1621552'
+  trending_top10_10:
+    overlay:
+      name: text(10)
+    tmdb_movie: '1212763'
