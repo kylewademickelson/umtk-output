@@ -1,0 +1,57 @@
+﻿# Custom video-format pills (bottom-left, next to the audio codec pill)
+# VISION / HDR10+ / HDR - one per movie via group weighting
+overlays:
+  format_dv:
+    overlay:
+      name: text(VISION)
+      group: vformat
+      weight: 40
+      horizontal_align: left
+      horizontal_offset: 335
+      vertical_align: bottom
+      vertical_offset: 15
+      font_size: 55
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_height: 105
+      back_padding: 30
+    plex_all: true
+    filters:
+      filepath.regex: '(?i)\b(dv|dovi)\b|dolby.?vision'
+  format_hdr10plus:
+    overlay:
+      name: text(HDR10+)
+      group: vformat
+      weight: 30
+      horizontal_align: left
+      horizontal_offset: 335
+      vertical_align: bottom
+      vertical_offset: 15
+      font_size: 55
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_height: 105
+      back_padding: 30
+    plex_all: true
+    filters:
+      filepath.regex: '(?i)hdr10(\+|p)'
+  format_hdr:
+    overlay:
+      name: text(HDR)
+      group: vformat
+      weight: 20
+      horizontal_align: left
+      horizontal_offset: 335
+      vertical_align: bottom
+      vertical_offset: 15
+      font_size: 55
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_height: 105
+      back_padding: 30
+    plex_search:
+      all:
+        hdr: true
