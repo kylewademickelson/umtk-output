@@ -2,22 +2,17 @@ overlays:
   backdrop_upcoming_finale:
     overlay:
       name: backdrop
-    tvdb_show: 71890, 79836, 80748, 82148, 82623, 212411, 248699, 254243, 258204,
-      280400, 301005, 305621, 307119, 320066, 338539, 340359, 346731, 362161, 364107,
-      370969, 394571, 400156, 403245, 406321, 410241, 422444, 424620, 451286, 458865,
-      462152, 468000, 477046, 477092, 479561, 480102, 480409, 480636
+    tvdb_show: 72746, 74921, 80748, 82148, 82623, 85074, 187741, 212411, 248699, 254243,
+      258204, 280400, 301005, 305621, 307119, 320066, 338539, 340359, 346731, 362161,
+      364107, 394571, 400156, 403245, 406321, 410241, 421974, 422444, 424620, 436766,
+      440311, 458865, 462152, 464305, 477092, 479561, 480102, 480409, 480527
   TSSK_TODAY:
     overlay:
       name: text(New Season TODAY)
-    tvdb_show: 370969, 394571, 451286, 477046, 480636
+    tvdb_show: 212411, 248699, 305621, 320066, 364107, 477092, 479561
   TSSK_TOMORROW:
     overlay:
       name: text(New Season TOMORROW)
-    tvdb_show: 71890, 212411, 248699, 258204, 305621, 320066, 364107, 468000, 477092,
-      479561
-  TSSK_TUESDAY:
-    overlay:
-      name: text(New Season TUESDAY)
     tvdb_show: 307119, 346731, 410241, 422444, 424620, 458865
   TSSK_WEDNESDAY:
     overlay:
@@ -26,13 +21,21 @@ overlays:
   TSSK_THURSDAY:
     overlay:
       name: text(New Season THURSDAY)
-    tvdb_show: 79836, 254243, 280400, 301005, 338539, 340359, 362161, 403245, 462152,
-      480102, 480409
+    tvdb_show: 254243, 280400, 301005, 338539, 340359, 362161, 403245, 462152, 480102,
+      480409
   TSSK_FRIDAY:
     overlay:
       name: text(New Season FRIDAY)
-    tvdb_show: '82623'
+    tvdb_show: 82623, 85074
+  TSSK_SUNDAY:
+    overlay:
+      name: text(New Season SUNDAY)
+    tvdb_show: 187741, 258204, 394571, 421974, 436766, 440311, 464305, 480527
   TSSK_2026-09-07:
     overlay:
       name: text(New Season 2026-09-07)
-    tvdb_show: 80748, 82148
+    tvdb_show: 72746, 80748, 82148
+  TSSK_2026-09-13:
+    overlay:
+      name: text(New Season 2026-09-13)
+    tvdb_show: '74921'
