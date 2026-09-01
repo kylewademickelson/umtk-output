@@ -1907,3 +1907,11 @@ overlays:
       479465, 479490, 479561, 479571, 479784, 479884, 480102, 480145, 480171, 480250,
       480409, 480463, 480500, 480527, 480636, 480684, 480792, 480861, 480896, 480923,
       481021, 481036, 481094, 481189, 481198, 481321, 481452, 481458
+  backdrop_trending_request_tvdb:
+    overlay:
+      name: backdrop
+    tvdb_show: '449390'
+  UMTK_trending_request_tvdb:
+    overlay:
+      name: text(Request Needed)
+    tvdb_show: '449390'
