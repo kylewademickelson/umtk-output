@@ -2,37 +2,37 @@ overlays:
   backdrop_new_season:
     overlay:
       name: backdrop
-    tvdb_show: 70600, 71663, 74806, 74897, 75117, 75897, 76177, 76235, 76733, 77666,
-      83127, 84669, 100981, 116811, 207701, 230991, 250487, 252984, 268009, 298905,
-      301567, 314087, 334149, 354216, 356338, 372264, 372309, 374284, 386002, 389492,
-      392209, 398399, 413871, 420069, 422752, 423022, 426845, 429964, 433263, 440025,
-      442655, 446397, 446526, 446831, 447569, 449872, 450857, 452714, 453187, 454711,
-      456187, 457781, 461892, 462451, 462583, 462906, 463505, 463593, 463595, 465690,
-      466025, 473193
+    tvdb_show: 70600, 71663, 74806, 74897, 75117, 75897, 76177, 76235, 76548, 76733,
+      77072, 77666, 83127, 84669, 100981, 116811, 207701, 230991, 250487, 252984,
+      258255, 268009, 273761, 298905, 301567, 314087, 334149, 354216, 356338, 372264,
+      372309, 374284, 386002, 389492, 392209, 398399, 413871, 420069, 421306, 422752,
+      423022, 426845, 429964, 433263, 435958, 439327, 440025, 442655, 446397, 446526,
+      446831, 447569, 449872, 450857, 452714, 453187, 454711, 456187, 457781, 461892,
+      462451, 462583, 462906, 463505, 463593, 463595, 465690, 466025, 473193
+  TSSK_TODAY:
+    overlay:
+      name: text(New Season TODAY)
+    tvdb_show: 374284, 446397, 457781
   TSSK_TOMORROW:
     overlay:
       name: text(New Season TOMORROW)
-    tvdb_show: 374284, 446397, 457781
-  TSSK_WEDNESDAY:
-    overlay:
-      name: text(New Season WEDNESDAY)
     tvdb_show: '446526'
   TSSK_THURSDAY:
     overlay:
       name: text(New Season THURSDAY)
-    tvdb_show: 298905, 356338, 426845
+    tvdb_show: 258255, 298905, 356338, 426845
   TSSK_FRIDAY:
     overlay:
       name: text(New Season FRIDAY)
-    tvdb_show: 268009, 314087
-  TSSK_2026-09-07:
+    tvdb_show: 268009, 314087, 421306
+  TSSK_MONDAY:
     overlay:
-      name: text(New Season 2026-09-07)
+      name: text(New Season MONDAY)
     tvdb_show: 207701, 422752, 461892, 473193
   TSSK_2026-09-08:
     overlay:
       name: text(New Season 2026-09-08)
-    tvdb_show: 74806, 84669, 230991, 398399, 413871, 447569
+    tvdb_show: 74806, 77072, 84669, 230991, 398399, 413871, 447569
   TSSK_2026-09-09:
     overlay:
       name: text(New Season 2026-09-09)
@@ -44,7 +44,7 @@ overlays:
   TSSK_2026-09-13:
     overlay:
       name: text(New Season 2026-09-13)
-    tvdb_show: 252984, 442655
+    tvdb_show: 76548, 252984, 442655
   TSSK_2026-09-14:
     overlay:
       name: text(New Season 2026-09-14)
@@ -72,11 +72,11 @@ overlays:
   TSSK_2026-09-21:
     overlay:
       name: text(New Season 2026-09-21)
-    tvdb_show: 75117, 392209, 463595
+    tvdb_show: 75117, 392209, 439327, 463595
   TSSK_2026-09-22:
     overlay:
       name: text(New Season 2026-09-22)
-    tvdb_show: 433263, 463505
+    tvdb_show: 273761, 433263, 463505
   TSSK_2026-09-23:
     overlay:
       name: text(New Season 2026-09-23)
@@ -109,3 +109,7 @@ overlays:
     overlay:
       name: text(New Season 2026-09-30)
     tvdb_show: 77666, 100981, 465690
+  TSSK_2026-10-01:
+    overlay:
+      name: text(New Season 2026-10-01)
+    tvdb_show: '435958'
