@@ -2,23 +2,19 @@ overlays:
   backdrop_upcoming_finale:
     overlay:
       name: backdrop
-    tvdb_show: 74921, 77075, 80117, 80748, 82148, 82623, 85074, 115021, 187741, 254243,
-      258204, 262419, 280400, 307119, 338539, 340359, 346731, 362161, 371031, 391706,
-      394571, 400156, 403245, 406321, 407414, 410241, 421974, 424620, 424671, 436766,
-      440311, 441056, 462152, 464305, 480102, 480409, 480527, 480896
+    tvdb_show: 74921, 77075, 80117, 80748, 82148, 82623, 85074, 115021, 183411, 187741,
+      254243, 258204, 262419, 280400, 307119, 338539, 340359, 362161, 371031, 391706,
+      394571, 400156, 403245, 406321, 407414, 410241, 421974, 429751, 436766, 440311,
+      445638, 462152, 464305, 480102, 480409, 480527, 480896
   TSSK_TODAY:
     overlay:
       name: text(New Season TODAY)
-    tvdb_show: 346731, 424620, 441056
+    tvdb_show: 400156, 406321
   TSSK_TOMORROW:
     overlay:
       name: text(New Season TOMORROW)
-    tvdb_show: 400156, 406321, 424671
-  TSSK_THURSDAY:
-    overlay:
-      name: text(New Season THURSDAY)
-    tvdb_show: 80117, 254243, 280400, 338539, 340359, 362161, 403245, 462152, 480102,
-      480409
+    tvdb_show: 80117, 183411, 254243, 280400, 338539, 340359, 362161, 403245, 462152,
+      480102, 480409
   TSSK_FRIDAY:
     overlay:
       name: text(New Season FRIDAY)
@@ -31,10 +27,14 @@ overlays:
     overlay:
       name: text(New Season MONDAY)
     tvdb_show: 80748, 82148, 371031, 391706
-  TSSK_2026-09-08:
+  TSSK_TUESDAY:
     overlay:
-      name: text(New Season 2026-09-08)
-    tvdb_show: 262419, 307119, 407414, 410241
+      name: text(New Season TUESDAY)
+    tvdb_show: 262419, 307119, 407414, 410241, 445638
+  TSSK_2026-09-09:
+    overlay:
+      name: text(New Season 2026-09-09)
+    tvdb_show: '429751'
   TSSK_2026-09-13:
     overlay:
       name: text(New Season 2026-09-13)
