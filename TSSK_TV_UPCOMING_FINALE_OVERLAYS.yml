@@ -2,26 +2,22 @@ overlays:
   backdrop_upcoming_finale:
     overlay:
       name: backdrop
-    tvdb_show: 74285, 74921, 75332, 77075, 80117, 80748, 82148, 82623, 83231, 115021,
-      187741, 258204, 258255, 262419, 274453, 295936, 307119, 318512, 355125, 362161,
-      371031, 375704, 391706, 394571, 400156, 406321, 407414, 410241, 421974, 422444,
-      429751, 436766, 440311, 445638, 450799, 462404, 464305, 469326, 480527, 480896
-  TSSK_TODAY:
+    tvdb_show: 74285, 74921, 77075, 80117, 80428, 83231, 83774, 115021, 187741, 258204,
+      258255, 262419, 274453, 295936, 318512, 355125, 362161, 371031, 375704, 391706,
+      394571, 400156, 406321, 407414, 410241, 420283, 421974, 422444, 429751, 429912,
+      435035, 436766, 440311, 445638, 450799, 462404, 464305, 469326, 480527
+  TSSK_TOMORROW:
     overlay:
-      name: text(New Season TODAY)
-    tvdb_show: 75332, 82623, 480896
-  TSSK_SUNDAY:
-    overlay:
-      name: text(New Season SUNDAY)
+      name: text(New Season TOMORROW)
     tvdb_show: 187741, 258204, 394571, 421974, 436766, 440311, 464305, 480527
   TSSK_MONDAY:
     overlay:
       name: text(New Season MONDAY)
-    tvdb_show: 80748, 82148, 371031, 391706
+    tvdb_show: 371031, 391706
   TSSK_TUESDAY:
     overlay:
       name: text(New Season TUESDAY)
-    tvdb_show: 262419, 307119, 407414, 410241, 422444, 445638
+    tvdb_show: 262419, 407414, 410241, 422444, 429912, 445638
   TSSK_WEDNESDAY:
     overlay:
       name: text(New Season WEDNESDAY)
@@ -31,15 +27,19 @@ overlays:
     overlay:
       name: text(New Season THURSDAY)
     tvdb_show: 74285, 80117, 258255, 362161
-  TSSK_2026-09-11:
+  TSSK_FRIDAY:
     overlay:
-      name: text(New Season 2026-09-11)
-    tvdb_show: '469326'
+      name: text(New Season FRIDAY)
+    tvdb_show: 435035, 469326
   TSSK_2026-09-13:
     overlay:
       name: text(New Season 2026-09-13)
-    tvdb_show: '74921'
+    tvdb_show: 74921, 83774
   TSSK_2026-09-14:
     overlay:
       name: text(New Season 2026-09-14)
-    tvdb_show: 77075, 115021
+    tvdb_show: 77075, 80428, 115021
+  TSSK_2026-09-15:
+    overlay:
+      name: text(New Season 2026-09-15)
+    tvdb_show: '420283'
