@@ -2,8 +2,8 @@ overlays:
   backdrop_trending_top_10_tvdb:
     overlay:
       name: backdrop
-    tvdb_show: 376098, 403245, 366924, 383203, 468000, 388589, 393159, 459552, 371572,
-      449390
+    tvdb_show: 376098, 403245, 366924, 383203, 468000, 388589, 393159, 371572, 449390,
+      426845
   trending_top10_1_tvdb:
     overlay:
       name: text(1)
@@ -35,12 +35,12 @@ overlays:
   trending_top10_8_tvdb:
     overlay:
       name: text(8)
-    tvdb_show: '459552'
+    tvdb_show: '371572'
   trending_top10_9_tvdb:
     overlay:
       name: text(9)
-    tvdb_show: '371572'
+    tvdb_show: '449390'
   trending_top10_10_tvdb:
     overlay:
       name: text(10)
-    tvdb_show: '449390'
+    tvdb_show: '426845'
