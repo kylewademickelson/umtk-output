@@ -2,12 +2,12 @@ overlays:
   backdrop_trending_top_10:
     overlay:
       name: backdrop
-    tmdb_movie: 860508, 1386315, 1204680, 1137844, 969681, 1288445, 1339713, 1228710,
-      1480574, 1315772
+    tmdb_movie: 1137844, 1386315, 860508, 1204680, 969681, 1288445, 1228710, 1339713,
+      1084244, 950028
   trending_top10_1:
     overlay:
       name: text(1)
-    tmdb_movie: '860508'
+    tmdb_movie: '1137844'
   trending_top10_2:
     overlay:
       name: text(2)
@@ -15,11 +15,11 @@ overlays:
   trending_top10_3:
     overlay:
       name: text(3)
-    tmdb_movie: '1204680'
+    tmdb_movie: '860508'
   trending_top10_4:
     overlay:
       name: text(4)
-    tmdb_movie: '1137844'
+    tmdb_movie: '1204680'
   trending_top10_5:
     overlay:
       name: text(5)
@@ -31,16 +31,16 @@ overlays:
   trending_top10_7:
     overlay:
       name: text(7)
-    tmdb_movie: '1339713'
+    tmdb_movie: '1228710'
   trending_top10_8:
     overlay:
       name: text(8)
-    tmdb_movie: '1228710'
+    tmdb_movie: '1339713'
   trending_top10_9:
     overlay:
       name: text(9)
-    tmdb_movie: '1480574'
+    tmdb_movie: '1084244'
   trending_top10_10:
     overlay:
       name: text(10)
-    tmdb_movie: '1315772'
+    tmdb_movie: '950028'
