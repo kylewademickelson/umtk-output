@@ -2,45 +2,152 @@ overlays:
   backdrop_trending_top_10:
     overlay:
       name: backdrop
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 120
+      back_color: "#00000099"
     tmdb_movie: 1137844, 1386315, 860508, 1204680, 969681, 1288445, 1228710, 1339713,
       1084244, 950028
   trending_top10_1:
     overlay:
       name: text(1)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
     tmdb_movie: '1137844'
   trending_top10_2:
     overlay:
       name: text(2)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
     tmdb_movie: '1386315'
   trending_top10_3:
     overlay:
       name: text(3)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
     tmdb_movie: '860508'
   trending_top10_4:
     overlay:
       name: text(4)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
     tmdb_movie: '1204680'
   trending_top10_5:
     overlay:
       name: text(5)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
     tmdb_movie: '969681'
   trending_top10_6:
     overlay:
       name: text(6)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
     tmdb_movie: '1288445'
   trending_top10_7:
     overlay:
       name: text(7)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
     tmdb_movie: '1228710'
   trending_top10_8:
     overlay:
       name: text(8)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
     tmdb_movie: '1339713'
   trending_top10_9:
     overlay:
       name: text(9)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
     tmdb_movie: '1084244'
   trending_top10_10:
     overlay:
       name: text(10)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
     tmdb_movie: '950028'

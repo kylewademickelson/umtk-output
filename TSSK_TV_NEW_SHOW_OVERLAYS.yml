@@ -6,6 +6,13 @@ overlays:
       label.not: Coming Soon, RequestNeeded
     overlay:
       name: backdrop
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 120
+      back_color: "#00000099"
   new_show:
     plex_all: true
     filters:
@@ -13,3 +20,13 @@ overlays:
       label.not: Coming Soon, RequestNeeded
     overlay:
       name: text(New Show)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"

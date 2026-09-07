@@ -5,9 +5,26 @@ overlays:
       tmdb_status: canceled
     overlay:
       name: backdrop
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 120
+      back_color: "#00000099"
   canceled_show:
     plex_all: true
     filters:
       tmdb_status: canceled
     overlay:
       name: text(Canceled)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"

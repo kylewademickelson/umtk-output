@@ -2,10 +2,27 @@ overlays:
   backdrop_trending_request:
     overlay:
       name: backdrop
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 120
+      back_color: "#00000099"
     tmdb_movie: 860508, 950028, 969681, 1084244, 1137844, 1204680, 1228710, 1288445,
       1339713, 1386315
   UMTK_trending_request:
     overlay:
       name: text(Request Needed)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
     tmdb_movie: 860508, 950028, 969681, 1084244, 1137844, 1204680, 1228710, 1288445,
       1339713, 1386315

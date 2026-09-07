@@ -2,6 +2,13 @@ overlays:
   backdrop_aired:
     overlay:
       name: backdrop
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 120
+      back_color: "#00000099"
     tvdb_show: 70327, 70328, 70329, 70360, 70364, 70366, 70369, 70382, 70386, 70392,
       70415, 70417, 70431, 70460, 70474, 70490, 70500, 70513, 70520, 70522, 70532,
       70533, 70550, 70562, 70565, 70566, 70570, 70578, 70584, 70591, 70596, 70599,
@@ -956,6 +963,16 @@ overlays:
   UMTK_aired:
     overlay:
       name: text(Available Now)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
     tvdb_show: 70327, 70328, 70329, 70360, 70364, 70366, 70369, 70382, 70386, 70392,
       70415, 70417, 70431, 70460, 70474, 70490, 70500, 70513, 70520, 70522, 70532,
       70533, 70550, 70562, 70565, 70566, 70570, 70578, 70584, 70591, 70596, 70599,
@@ -1910,8 +1927,25 @@ overlays:
   backdrop_trending_request_tvdb:
     overlay:
       name: backdrop
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 120
+      back_color: "#00000099"
     tvdb_show: '449390'
   UMTK_trending_request_tvdb:
     overlay:
       name: text(Request Needed)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
     tvdb_show: '449390'
