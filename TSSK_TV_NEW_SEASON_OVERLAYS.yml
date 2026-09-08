@@ -9,15 +9,15 @@ overlays:
       back_width: 1000
       back_height: 120
       back_color: "#00000099"
-    tvdb_show: 70600, 71663, 72108, 73290, 74281, 74806, 74897, 75117, 75332, 75692,
-      75897, 76177, 76235, 76548, 76733, 77072, 77666, 81670, 82701, 83127, 84669,
-      100981, 116811, 208111, 230991, 250487, 252984, 258541, 269641, 273761, 276628,
-      295640, 301567, 327172, 334149, 350071, 354216, 358072, 372264, 372309, 386002,
-      389492, 391685, 397303, 398399, 402910, 410743, 413871, 420069, 423022, 428163,
-      428433, 429964, 430543, 433263, 435958, 439327, 440025, 441983, 442655, 444350,
-      446831, 447569, 448023, 449872, 450857, 452714, 453187, 453660, 454711, 456187,
-      462451, 462583, 462856, 462906, 463433, 463434, 463505, 463593, 463595, 465690,
-      466025, 468115, 473193
+    tvdb_show: 70600, 71663, 72108, 73290, 74281, 74806, 74897, 75117, 75692, 75897,
+      76177, 76235, 76548, 76733, 77666, 79264, 81670, 82701, 83127, 84669, 100981,
+      116811, 184871, 208111, 230991, 248888, 250487, 252984, 258541, 269641, 273761,
+      276628, 295640, 301567, 327172, 334149, 350071, 354216, 358072, 372264, 372309,
+      386002, 389492, 391685, 397303, 398399, 402910, 410743, 413871, 420063, 420069,
+      423022, 428163, 428433, 429964, 430543, 433263, 435958, 439327, 440025, 441983,
+      442655, 444350, 446831, 447569, 448023, 449708, 449872, 450857, 452714, 453187,
+      453660, 454711, 456187, 460392, 462451, 462583, 462856, 462906, 463433, 463434,
+      463505, 463593, 463595, 465690, 466025, 468115
   TSSK_TODAY:
     overlay:
       name: text(New Season TODAY)
@@ -31,24 +31,10 @@ overlays:
       font_size: 63
       font_color: "#FFFFFF"
       back_color: "#01807E"
-    tvdb_show: '473193'
+    tvdb_show: 74806, 84669, 230991, 398399, 413871, 447569
   TSSK_TOMORROW:
     overlay:
       name: text(New Season TOMORROW)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
-    tvdb_show: 74806, 75332, 77072, 84669, 230991, 398399, 413871, 447569
-  TSSK_WEDNESDAY:
-    overlay:
-      name: text(New Season WEDNESDAY)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -88,9 +74,9 @@ overlays:
       font_color: "#FFFFFF"
       back_color: "#01807E"
     tvdb_show: 73290, 76548, 252984, 397303, 442655
-  TSSK_2026-09-14:
+  TSSK_MONDAY:
     overlay:
-      name: text(New Season 2026-09-14)
+      name: text(New Season MONDAY)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -101,7 +87,7 @@ overlays:
       font_size: 63
       font_color: "#FFFFFF"
       back_color: "#01807E"
-    tvdb_show: 276628, 301567, 386002, 440025, 450857
+    tvdb_show: 248888, 276628, 301567, 386002, 440025, 450857
   TSSK_2026-09-15:
     overlay:
       name: text(New Season 2026-09-15)
@@ -129,7 +115,7 @@ overlays:
       font_size: 63
       font_color: "#FFFFFF"
       back_color: "#01807E"
-    tvdb_show: 75897, 354216, 372309
+    tvdb_show: 75897, 79264, 354216, 372309
   TSSK_2026-09-17:
     overlay:
       name: text(New Season 2026-09-17)
@@ -213,7 +199,7 @@ overlays:
       font_size: 63
       font_color: "#FFFFFF"
       back_color: "#01807E"
-    tvdb_show: 273761, 433263
+    tvdb_show: 184871, 273761, 433263
   TSSK_2026-09-23:
     overlay:
       name: text(New Season 2026-09-23)
@@ -410,3 +396,17 @@ overlays:
       font_color: "#FFFFFF"
       back_color: "#01807E"
     tvdb_show: 75692, 430543, 448023
+  TSSK_2026-10-09:
+    overlay:
+      name: text(New Season 2026-10-09)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
+    tvdb_show: 420063, 449708, 460392
