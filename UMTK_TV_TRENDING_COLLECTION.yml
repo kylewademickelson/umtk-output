@@ -1,7 +1,7 @@
 collections:
   Trending Shows:
-    tvdb_show: 376098, 403245, 366924, 383203, 468000, 388589, 393159, 371572, 449390,
-      426845
+    tvdb_show: 426845, 403245, 376098, 366924, 468000, 383203, 388589, 393159, 449390,
+      382389
     sync_mode: sync
   RequestNeededTV:
     item_label: RequestNeeded
