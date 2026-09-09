@@ -13,141 +13,141 @@ overlays:
       382389
   trending_top10_1_tvdb:
     overlay:
-      name: text(1)
+      name: text(#1)
       horizontal_align: center
-      vertical_align: bottom
+      vertical_align: top
       horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
+      vertical_offset: 15
+      back_width: 170
+      back_height: 100
+      back_radius: 30
+      font_size: 60
+      font_color: "#111111"
+      back_color: "#F2C94C"
     tvdb_show: '426845'
   trending_top10_2_tvdb:
     overlay:
-      name: text(2)
+      name: text(#2)
       horizontal_align: center
-      vertical_align: bottom
+      vertical_align: top
       horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
+      vertical_offset: 15
+      back_width: 170
+      back_height: 100
+      back_radius: 30
+      font_size: 60
+      font_color: "#111111"
+      back_color: "#F2C94C"
     tvdb_show: '403245'
   trending_top10_3_tvdb:
     overlay:
-      name: text(3)
+      name: text(#3)
       horizontal_align: center
-      vertical_align: bottom
+      vertical_align: top
       horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
+      vertical_offset: 15
+      back_width: 170
+      back_height: 100
+      back_radius: 30
+      font_size: 60
+      font_color: "#111111"
+      back_color: "#F2C94C"
     tvdb_show: '376098'
   trending_top10_4_tvdb:
     overlay:
-      name: text(4)
+      name: text(#4)
       horizontal_align: center
-      vertical_align: bottom
+      vertical_align: top
       horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
+      vertical_offset: 15
+      back_width: 170
+      back_height: 100
+      back_radius: 30
+      font_size: 60
+      font_color: "#111111"
+      back_color: "#F2C94C"
     tvdb_show: '366924'
   trending_top10_5_tvdb:
     overlay:
-      name: text(5)
+      name: text(#5)
       horizontal_align: center
-      vertical_align: bottom
+      vertical_align: top
       horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
+      vertical_offset: 15
+      back_width: 170
+      back_height: 100
+      back_radius: 30
+      font_size: 60
+      font_color: "#111111"
+      back_color: "#F2C94C"
     tvdb_show: '468000'
   trending_top10_6_tvdb:
     overlay:
-      name: text(6)
+      name: text(#6)
       horizontal_align: center
-      vertical_align: bottom
+      vertical_align: top
       horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
+      vertical_offset: 15
+      back_width: 170
+      back_height: 100
+      back_radius: 30
+      font_size: 60
+      font_color: "#111111"
+      back_color: "#F2C94C"
     tvdb_show: '383203'
   trending_top10_7_tvdb:
     overlay:
-      name: text(7)
+      name: text(#7)
       horizontal_align: center
-      vertical_align: bottom
+      vertical_align: top
       horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
+      vertical_offset: 15
+      back_width: 170
+      back_height: 100
+      back_radius: 30
+      font_size: 60
+      font_color: "#111111"
+      back_color: "#F2C94C"
     tvdb_show: '388589'
   trending_top10_8_tvdb:
     overlay:
-      name: text(8)
+      name: text(#8)
       horizontal_align: center
-      vertical_align: bottom
+      vertical_align: top
       horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
+      vertical_offset: 15
+      back_width: 170
+      back_height: 100
+      back_radius: 30
+      font_size: 60
+      font_color: "#111111"
+      back_color: "#F2C94C"
     tvdb_show: '393159'
   trending_top10_9_tvdb:
     overlay:
-      name: text(9)
+      name: text(#9)
       horizontal_align: center
-      vertical_align: bottom
+      vertical_align: top
       horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
+      vertical_offset: 15
+      back_width: 170
+      back_height: 100
+      back_radius: 30
+      font_size: 60
+      font_color: "#111111"
+      back_color: "#F2C94C"
     tvdb_show: '449390'
   trending_top10_10_tvdb:
     overlay:
-      name: text(10)
+      name: text(#10)
       horizontal_align: center
-      vertical_align: bottom
+      vertical_align: top
       horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
+      vertical_offset: 15
+      back_width: 170
+      back_height: 100
+      back_radius: 30
+      font_size: 60
+      font_color: "#111111"
+      back_color: "#F2C94C"
     tvdb_show: '382389'
