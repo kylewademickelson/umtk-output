@@ -37,7 +37,7 @@ external_templates:
       vertical_offset: 50
       horizontal_align: left
     conditionals:
-      file:
+      url:
         conditions:
           - type: [combined, video, audio]
             value: https://raw.githubusercontent.com/jmxd/Kometa/main/overlays/images/media_info/codec/<<key>>.png
@@ -285,7 +285,7 @@ templates:
 
   backdrop:
     conditionals:
-      file:
+      url:
         conditions:
           - key: gradient_top
             builder_level: episode
@@ -306,7 +306,7 @@ templates:
     plex_all: true
     overlay:
       name: <<overlay_name>>
-      url: <<file>>
+      url: <<url>>
 
 overlays:
   gradient_top:
