@@ -18,9 +18,9 @@ overlays:
       442655, 444350, 446831, 448023, 449708, 450857, 453187, 453660, 454711, 456187,
       460392, 462451, 462583, 462856, 462906, 462960, 463433, 463434, 463505, 463593,
       463595, 465690, 466025, 468115
-  TSSK_SATURDAY:
+  TSSK_TOMORROW:
     overlay:
-      name: text(New Season SATURDAY)
+      name: text(New Season TOMORROW)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -88,9 +88,9 @@ overlays:
       font_color: "#FFFFFF"
       back_color: "#01807E"
     tvdb_show: 75897, 79264, 354216, 372309
-  TSSK_2026-09-17:
+  TSSK_THURSDAY:
     overlay:
-      name: text(New Season 2026-09-17)
+      name: text(New Season THURSDAY)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0

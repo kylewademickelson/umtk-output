@@ -9,10 +9,10 @@ overlays:
       back_width: 1000
       back_height: 120
       back_color: "#00000099"
-    tvdb_show: 70600, 71998, 72746, 77072, 79836, 80428, 80748, 82148, 115021, 166251,
-      248469, 258255, 267570, 268356, 301005, 305621, 318512, 362161, 366924, 369988,
-      375704, 387515, 400156, 406321, 410241, 417549, 420283, 435035, 451286, 455420,
-      461892, 467089, 469326, 473193, 477675, 480527, 480896
+    tvdb_show: 70600, 72746, 79836, 80428, 82148, 115021, 166251, 248469, 258255,
+      267570, 268356, 301005, 305621, 318512, 362161, 366924, 369988, 375704, 387515,
+      400156, 406321, 410241, 417549, 420283, 435035, 451286, 455420, 461892, 467089,
+      473193, 477675, 480527
   TSSK_TODAY:
     overlay:
       name: text(New Season TODAY)
@@ -26,21 +26,7 @@ overlays:
       font_size: 63
       font_color: "#FFFFFF"
       back_color: "#01807E"
-    tvdb_show: '71998'
-  TSSK_TOMORROW:
-    overlay:
-      name: text(New Season TOMORROW)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
-    tvdb_show: 70600, 77072, 435035, 469326, 480896
+    tvdb_show: 70600, 435035
   TSSK_SUNDAY:
     overlay:
       name: text(New Season SUNDAY)
@@ -68,7 +54,7 @@ overlays:
       font_size: 63
       font_color: "#FFFFFF"
       back_color: "#01807E"
-    tvdb_show: 72746, 80428, 80748, 82148, 115021, 305621, 455420, 461892, 473193
+    tvdb_show: 72746, 80428, 82148, 115021, 305621, 455420, 461892, 473193
   TSSK_TUESDAY:
     overlay:
       name: text(New Season TUESDAY)
@@ -97,9 +83,9 @@ overlays:
       font_color: "#FFFFFF"
       back_color: "#01807E"
     tvdb_show: 318512, 366924, 375704, 400156, 406321, 477675
-  TSSK_2026-09-17:
+  TSSK_THURSDAY:
     overlay:
-      name: text(New Season 2026-09-17)
+      name: text(New Season THURSDAY)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
