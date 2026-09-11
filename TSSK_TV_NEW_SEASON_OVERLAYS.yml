@@ -9,29 +9,15 @@ overlays:
       back_width: 1000
       back_height: 120
       back_color: "#00000099"
-    tvdb_show: 70600, 71663, 72108, 73290, 74281, 74897, 75117, 75692, 75897, 76177,
-      76235, 76548, 76733, 77666, 79264, 80411, 81670, 82701, 83127, 100981, 116811,
-      138551, 184871, 208111, 248888, 250487, 252984, 258541, 269641, 273761, 276628,
-      295640, 301567, 327172, 334149, 350071, 354216, 358072, 372264, 372309, 378982,
-      386002, 389492, 391685, 397303, 402910, 410743, 420063, 420069, 423022, 428163,
-      428433, 429964, 430543, 433263, 435958, 439327, 440025, 441983, 442655, 444350,
-      446831, 448023, 449708, 450857, 452714, 453187, 453660, 454711, 456187, 460392,
-      462451, 462583, 462856, 462906, 463433, 463434, 463505, 463593, 463595, 465690,
-      466025, 468115
-  TSSK_TODAY:
-    overlay:
-      name: text(New Season TODAY)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
-    tvdb_show: '452714'
+    tvdb_show: 71663, 72108, 73290, 74281, 74897, 75117, 75692, 75897, 76177, 76235,
+      76548, 76733, 77666, 79264, 80411, 81670, 82701, 83127, 100981, 116811, 138551,
+      184871, 193711, 208111, 248888, 250487, 252984, 258541, 269641, 273761, 276628,
+      295640, 301567, 303252, 327172, 334149, 334643, 350071, 354216, 358072, 372264,
+      372309, 378982, 386002, 389492, 391685, 397303, 402910, 410743, 420063, 420069,
+      423022, 428163, 428433, 429964, 430543, 433263, 435958, 439327, 440025, 441983,
+      442655, 444350, 446831, 448023, 449708, 450857, 453187, 453660, 454711, 456187,
+      460392, 462451, 462583, 462856, 462906, 462960, 463433, 463434, 463505, 463593,
+      463595, 465690, 466025, 468115
   TSSK_SATURDAY:
     overlay:
       name: text(New Season SATURDAY)
@@ -88,9 +74,9 @@ overlays:
       font_color: "#FFFFFF"
       back_color: "#01807E"
     tvdb_show: 372264, 462583, 466025
-  TSSK_2026-09-16:
+  TSSK_WEDNESDAY:
     overlay:
-      name: text(New Season 2026-09-16)
+      name: text(New Season WEDNESDAY)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -157,7 +143,7 @@ overlays:
       font_size: 63
       font_color: "#FFFFFF"
       back_color: "#01807E"
-    tvdb_show: '463505'
+    tvdb_show: 334643, 463505
   TSSK_2026-09-21:
     overlay:
       name: text(New Season 2026-09-21)
@@ -214,20 +200,6 @@ overlays:
       font_color: "#FFFFFF"
       back_color: "#01807E"
     tvdb_show: 74897, 250487
-  TSSK_2026-09-25:
-    overlay:
-      name: text(New Season 2026-09-25)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
-    tvdb_show: '70600'
   TSSK_2026-09-26:
     overlay:
       name: text(New Season 2026-09-26)
@@ -325,7 +297,7 @@ overlays:
       font_size: 63
       font_color: "#FFFFFF"
       back_color: "#01807E"
-    tvdb_show: 82701, 428433, 463433
+    tvdb_show: 82701, 193711, 428433, 463433
   TSSK_2026-10-05:
     overlay:
       name: text(New Season 2026-10-05)
@@ -339,7 +311,7 @@ overlays:
       font_size: 63
       font_color: "#FFFFFF"
       back_color: "#01807E"
-    tvdb_show: 81670, 350071, 410743, 462856, 463434
+    tvdb_show: 81670, 350071, 410743, 462856, 462960, 463434
   TSSK_2026-10-06:
     overlay:
       name: text(New Season 2026-10-06)
@@ -410,3 +382,17 @@ overlays:
       font_color: "#FFFFFF"
       back_color: "#01807E"
     tvdb_show: '138551'
+  TSSK_2026-10-11:
+    overlay:
+      name: text(New Season 2026-10-11)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
+    tvdb_show: '303252'
