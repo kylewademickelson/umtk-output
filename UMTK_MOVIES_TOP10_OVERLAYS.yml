@@ -9,8 +9,8 @@ overlays:
       back_width: 1000
       back_height: 120
       back_color: "#00000099"
-    tmdb_movie: 1137844, 1108427, 1433367, 1288445, 1204680, 1440098, 860508, 1386315,
-      969681, 1081003
+    tmdb_movie: 1137844, 1108427, 1433367, 1288445, 1204680, 860508, 1081003, 1440098,
+      969681, 1386315
   trending_top10_1:
     overlay:
       name: text(#1)
@@ -94,7 +94,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tmdb_movie: '1440098'
+    tmdb_movie: '860508'
   trending_top10_7:
     overlay:
       name: text(#7)
@@ -108,7 +108,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tmdb_movie: '860508'
+    tmdb_movie: '1081003'
   trending_top10_8:
     overlay:
       name: text(#8)
@@ -122,7 +122,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tmdb_movie: '1386315'
+    tmdb_movie: '1440098'
   trending_top10_9:
     overlay:
       name: text(#9)
@@ -150,4 +150,4 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tmdb_movie: '1081003'
+    tmdb_movie: '1386315'
