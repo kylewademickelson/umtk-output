@@ -9,50 +9,20 @@ overlays:
       back_width: 1000
       back_height: 120
       back_color: "#00000099"
-    tvdb_show: 70328, 70366, 70870, 71256, 71565, 71753, 72231, 72480, 73141, 73182,
-      73871, 74768, 74921, 75332, 75805, 76119, 76706, 77072, 77075, 77715, 78006,
-      78869, 78957, 79490, 79838, 80552, 80646, 80748, 81358, 82623, 82918, 83221,
-      83774, 84669, 85074, 91171, 113701, 183411, 192341, 192351, 207701, 257313,
+    tvdb_show: 70328, 70366, 70870, 71256, 71565, 71753, 72231, 72480, 72746, 73141,
+      73871, 74768, 74806, 74921, 75332, 75805, 76119, 76706, 77075, 77715, 78006,
+      78869, 78957, 79490, 79838, 80552, 80646, 80748, 81358, 82148, 82177, 82623,
+      83221, 83774, 84669, 85074, 91171, 113701, 183411, 192351, 207701, 230991, 257313,
       258204, 263328, 268009, 270261, 275413, 278518, 291363, 298905, 307119, 314008,
       314342, 317346, 348200, 356338, 364620, 367658, 374284, 376098, 382389, 383203,
-      384968, 387339, 388589, 392209, 393159, 395985, 407107, 413871, 415089, 420507,
-      421076, 421306, 422752, 424620, 425498, 429639, 431185, 435298, 435852, 435926,
-      442767, 446789, 447569, 448246, 449045, 454071, 456028, 457446, 457781, 462404,
-      463597, 464042, 464732, 465664, 466198, 468012, 475580, 475718, 479465, 479490,
-      480792, 481021, 481094
-  TSSK_TODAY:
-    overlay:
-      name: text(New Season TODAY)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
-    tvdb_show: 70328, 71565, 72231, 73182, 75332, 77072, 77715, 78957, 79838, 82623,
-      82918, 113701, 192341, 192351, 207701, 268009, 421306, 422752, 449045, 463597,
-      464732, 479490
+      384968, 387339, 388589, 392209, 393159, 395985, 407107, 410241, 413871, 415089,
+      420507, 421076, 421306, 422752, 424620, 425498, 429639, 431185, 435298, 435852,
+      435926, 442767, 446789, 447569, 448246, 449045, 454071, 455420, 456028, 457446,
+      457781, 461892, 462404, 462451, 463597, 464042, 465664, 466198, 468012, 473193,
+      475580, 475718, 479465, 480792, 481021, 481094
   TSSK_TOMORROW:
     overlay:
       name: text(New Season TOMORROW)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
-    tvdb_show: 257313, 442767
-  TSSK_SUNDAY:
-    overlay:
-      name: text(New Season SUNDAY)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -78,8 +48,10 @@ overlays:
       font_size: 63
       font_color: "#FFFFFF"
       back_color: "#01807E"
-    tvdb_show: 70366, 71753, 72480, 73871, 75805, 77075, 80748, 83221, 270261, 275413,
-      314342, 348200, 392209, 435852, 454071, 457446, 468012
+    tvdb_show: 70328, 70366, 71565, 71753, 72480, 72746, 73871, 75332, 75805, 77075,
+      77715, 79838, 80748, 82148, 83221, 192351, 207701, 230991, 270261, 275413, 314342,
+      348200, 392209, 422752, 435852, 449045, 454071, 455420, 457446, 461892, 468012,
+      473193
   TSSK_TUESDAY:
     overlay:
       name: text(New Season TUESDAY)
@@ -93,8 +65,9 @@ overlays:
       font_size: 63
       font_color: "#FFFFFF"
       back_color: "#01807E"
-    tvdb_show: 71256, 79490, 80552, 84669, 183411, 263328, 307119, 314008, 374284,
-      383203, 387339, 407107, 413871, 420507, 424620, 447569, 457781, 464042, 481021
+    tvdb_show: 71256, 79490, 80552, 84669, 113701, 183411, 263328, 307119, 314008,
+      374284, 383203, 387339, 407107, 410241, 413871, 420507, 424620, 447569, 457781,
+      464042, 481021
   TSSK_WEDNESDAY:
     overlay:
       name: text(New Season WEDNESDAY)
@@ -124,9 +97,9 @@ overlays:
       font_color: "#FFFFFF"
       back_color: "#01807E"
     tvdb_show: 298905, 356338, 382389, 393159, 431185, 435298, 446789, 465664
-  TSSK_2026-09-18:
+  TSSK_FRIDAY:
     overlay:
-      name: text(New Season 2026-09-18)
+      name: text(New Season FRIDAY)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -137,7 +110,8 @@ overlays:
       font_size: 63
       font_color: "#FFFFFF"
       back_color: "#01807E"
-    tvdb_show: 85074, 421076, 448246, 479465
+    tvdb_show: 72231, 78957, 82623, 85074, 268009, 421076, 421306, 448246, 463597,
+      479465
   TSSK_2026-09-19:
     overlay:
       name: text(New Season 2026-09-19)
@@ -151,7 +125,7 @@ overlays:
       font_size: 63
       font_color: "#FFFFFF"
       back_color: "#01807E"
-    tvdb_show: 364620, 475718
+    tvdb_show: 257313, 364620, 442767, 462451, 475718
   TSSK_2026-09-20:
     overlay:
       name: text(New Season 2026-09-20)
@@ -180,6 +154,20 @@ overlays:
       font_color: "#FFFFFF"
       back_color: "#01807E"
     tvdb_show: '91171'
+  TSSK_2026-09-22:
+    overlay:
+      name: text(New Season 2026-09-22)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
+    tvdb_show: '82177'
   TSSK_2026-09-29:
     overlay:
       name: text(New Season 2026-09-29)
@@ -194,3 +182,17 @@ overlays:
       font_color: "#FFFFFF"
       back_color: "#01807E"
     tvdb_show: '80646'
+  TSSK_2026-10-12:
+    overlay:
+      name: text(New Season 2026-10-12)
+      horizontal_align: center
+      vertical_align: bottom
+      horizontal_offset: 0
+      vertical_offset: 0
+      back_width: 1000
+      back_height: 110
+      back_radius: 40
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_color: "#01807E"
+    tvdb_show: '74806'
