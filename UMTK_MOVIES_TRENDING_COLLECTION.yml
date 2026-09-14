@@ -1,12 +1,12 @@
 collections:
   Trending Movies:
-    tmdb_movie: 1137844, 1108427, 1204680, 1288445, 860508, 1433367, 1081003, 969681,
-      1386315, 1440098
+    tmdb_movie: 1137844, 1108427, 1204680, 860508, 1081003, 1288445, 969681, 1433367,
+      1101383, 1386315
     sync_mode: sync
   RequestNeededMovies:
     item_label: RequestNeeded
     non_item_remove_label: RequestNeeded
     build_collection: false
     sync_mode: append
-    tmdb_movie: 1137844, 1108427, 1204680, 1288445, 860508, 1433367, 1081003, 969681,
-      1386315, 1440098
+    tmdb_movie: 1137844, 1108427, 1204680, 860508, 1081003, 1288445, 969681, 1433367,
+      1101383, 1386315

@@ -1934,7 +1934,7 @@ overlays:
       back_width: 1000
       back_height: 120
       back_color: "#00000099"
-    tvdb_show: '449390'
+    tvdb_show: '451782'
   UMTK_trending_request_tvdb:
     overlay:
       name: text(Request Needed)
@@ -1948,4 +1948,4 @@ overlays:
       font_size: 63
       font_color: "#FFFFFF"
       back_color: "#01807E"
-    tvdb_show: '449390'
+    tvdb_show: '451782'
