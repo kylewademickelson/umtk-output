@@ -22,7 +22,7 @@ overlays:
       466198, 466987, 468012, 470002, 475580, 475718, 479465, 480792, 481021, 481094
   TSSK_TODAY:
     overlay:
-      name: text(New Season TODAY)
+      name: text(New Episode TODAY)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -32,11 +32,11 @@ overlays:
       back_radius: 40
       font_size: 63
       font_color: "#FFFFFF"
-      back_color: "#01807E"
+      back_color: "#D97706"
     tvdb_show: 78006, 270261, 454071
   TSSK_TOMORROW:
     overlay:
-      name: text(New Season TOMORROW)
+      name: text(New Episode TOMORROW)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -46,14 +46,14 @@ overlays:
       back_radius: 40
       font_size: 63
       font_color: "#FFFFFF"
-      back_color: "#01807E"
+      back_color: "#D97706"
     tvdb_show: 70328, 70366, 71256, 71565, 71753, 71890, 71998, 72480, 74768, 75332,
       77075, 77715, 79490, 79838, 80552, 84669, 113701, 183411, 192351, 207701, 230991,
       263328, 276628, 307119, 314008, 374284, 383203, 387339, 407107, 410241, 413871,
       420507, 422752, 424620, 447569, 449045, 457781, 464042, 481021
   TSSK_WEDNESDAY:
     overlay:
-      name: text(New Season WEDNESDAY)
+      name: text(New Episode WEDNESDAY)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -63,12 +63,12 @@ overlays:
       back_radius: 40
       font_size: 63
       font_color: "#FFFFFF"
-      back_color: "#01807E"
+      back_color: "#D97706"
     tvdb_show: 70870, 76119, 76706, 78869, 81358, 314342, 317346, 318512, 367658,
       406321, 415089, 425498, 429639, 435926, 462404, 475580, 481094
   TSSK_THURSDAY:
     overlay:
-      name: text(New Season THURSDAY)
+      name: text(New Episode THURSDAY)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -78,12 +78,12 @@ overlays:
       back_radius: 40
       font_size: 63
       font_color: "#FFFFFF"
-      back_color: "#01807E"
+      back_color: "#D97706"
     tvdb_show: 79836, 298905, 356338, 362161, 382389, 393159, 431185, 435298, 446789,
       465664
   TSSK_FRIDAY:
     overlay:
-      name: text(New Season FRIDAY)
+      name: text(New Episode FRIDAY)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -93,12 +93,12 @@ overlays:
       back_radius: 40
       font_size: 63
       font_color: "#FFFFFF"
-      back_color: "#01807E"
+      back_color: "#D97706"
     tvdb_show: 72231, 73182, 78957, 82623, 85074, 268009, 421076, 421306, 448246,
       463597, 479465
   TSSK_SATURDAY:
     overlay:
-      name: text(New Season SATURDAY)
+      name: text(New Episode SATURDAY)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -108,11 +108,11 @@ overlays:
       back_radius: 40
       font_size: 63
       font_color: "#FFFFFF"
-      back_color: "#01807E"
+      back_color: "#D97706"
     tvdb_show: 257313, 358072, 364620, 442767, 453187, 462451, 466987, 475718
   TSSK_SUNDAY:
     overlay:
-      name: text(New Season SUNDAY)
+      name: text(New Episode SUNDAY)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -122,12 +122,12 @@ overlays:
       back_radius: 40
       font_size: 63
       font_color: "#FFFFFF"
-      back_color: "#01807E"
+      back_color: "#D97706"
     tvdb_show: 73290, 74921, 79761, 252984, 278518, 291363, 376098, 456028, 457953,
       466198, 480792
   TSSK_2026-09-21:
     overlay:
-      name: text(New Season 2026-09-21)
+      name: text(New Episode 2026-09-21)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -137,11 +137,11 @@ overlays:
       back_radius: 40
       font_size: 63
       font_color: "#FFFFFF"
-      back_color: "#01807E"
+      back_color: "#D97706"
     tvdb_show: 73871, 75805, 83221, 91171, 275413, 301567, 348200, 386002
   TSSK_2026-09-22:
     overlay:
-      name: text(New Season 2026-09-22)
+      name: text(New Episode 2026-09-22)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -151,11 +151,11 @@ overlays:
       back_radius: 40
       font_size: 63
       font_color: "#FFFFFF"
-      back_color: "#01807E"
+      back_color: "#D97706"
     tvdb_show: '82177'
   TSSK_2026-09-27:
     overlay:
-      name: text(New Season 2026-09-27)
+      name: text(New Episode 2026-09-27)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -165,11 +165,11 @@ overlays:
       back_radius: 40
       font_size: 63
       font_color: "#FFFFFF"
-      back_color: "#01807E"
+      back_color: "#D97706"
     tvdb_show: '470002'
   TSSK_2026-09-28:
     overlay:
-      name: text(New Season 2026-09-28)
+      name: text(New Episode 2026-09-28)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -179,11 +179,11 @@ overlays:
       back_radius: 40
       font_size: 63
       font_color: "#FFFFFF"
-      back_color: "#01807E"
+      back_color: "#D97706"
     tvdb_show: '468012'
   TSSK_2026-09-29:
     overlay:
-      name: text(New Season 2026-09-29)
+      name: text(New Episode 2026-09-29)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -193,11 +193,11 @@ overlays:
       back_radius: 40
       font_size: 63
       font_color: "#FFFFFF"
-      back_color: "#01807E"
+      back_color: "#D97706"
     tvdb_show: '80646'
   TSSK_2026-10-07:
     overlay:
-      name: text(New Season 2026-10-07)
+      name: text(New Episode 2026-10-07)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -207,11 +207,11 @@ overlays:
       back_radius: 40
       font_size: 63
       font_color: "#FFFFFF"
-      back_color: "#01807E"
+      back_color: "#D97706"
     tvdb_show: '367659'
   TSSK_2026-10-12:
     overlay:
-      name: text(New Season 2026-10-12)
+      name: text(New Episode 2026-10-12)
       horizontal_align: center
       vertical_align: bottom
       horizontal_offset: 0
@@ -221,5 +221,5 @@ overlays:
       back_radius: 40
       font_size: 63
       font_color: "#FFFFFF"
-      back_color: "#01807E"
+      back_color: "#D97706"
     tvdb_show: '74806'
