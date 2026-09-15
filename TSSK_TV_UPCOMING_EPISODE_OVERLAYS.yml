@@ -34,7 +34,10 @@ overlays:
       group: TSSK_text
       weight: 20
       name: text(NEXT EPISODE TODAY)
-    tvdb_show: '78006'
+    tvdb_show: 70328, 71256, 71565, 71753, 71998, 75332, 77075, 77715, 78006, 79490,
+      79838, 80552, 84669, 113701, 183411, 192351, 207701, 230991, 270261, 276628,
+      314008, 374284, 383203, 387339, 410241, 413871, 420507, 422752, 424620, 447569,
+      449045, 457781, 464042, 481021
   TSSK_TOMORROW:
     overlay:
       horizontal_align: center
@@ -46,23 +49,9 @@ overlays:
       group: TSSK_text
       weight: 20
       name: text(NEXT EPISODE TOMORROW)
-    tvdb_show: 70328, 70366, 71256, 71565, 71753, 71890, 71998, 72480, 74768, 75332,
-      77075, 77715, 79490, 79838, 80552, 84669, 113701, 183411, 192351, 207701, 230991,
-      263328, 270261, 276628, 307119, 314008, 374284, 383203, 386002, 387339, 407107,
-      410241, 413871, 420507, 422752, 424620, 447569, 449045, 457781, 464042, 481021
-  TSSK_WEDNESDAY:
-    overlay:
-      horizontal_align: center
-      horizontal_offset: 0
-      vertical_align: bottom
-      vertical_offset: 35
-      font_size: 70
-      font_color: '#FFFFFF'
-      group: TSSK_text
-      weight: 20
-      name: text(NEXT EPISODE WEDNESDAY)
-    tvdb_show: 70870, 76119, 76706, 78869, 81358, 314342, 317346, 318512, 367658,
-      400156, 406321, 415089, 425498, 429639, 435926, 462404, 475580, 481094
+    tvdb_show: 70366, 70870, 71890, 72480, 74768, 76119, 76706, 78869, 81358, 314342,
+      317346, 318512, 367658, 400156, 406321, 415089, 425498, 429639, 435926, 462404,
+      475580, 481094
   TSSK_THURSDAY:
     overlay:
       horizontal_align: center
@@ -114,7 +103,7 @@ overlays:
       name: text(NEXT EPISODE SUNDAY)
     tvdb_show: 73290, 74921, 79761, 252984, 278518, 291363, 376098, 456028, 457953,
       466198, 480792
-  TSSK_MON 09/21:
+  TSSK_MONDAY:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -124,8 +113,9 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 20
-      name: text(NEXT EPISODE MON 09/21)
-    tvdb_show: 73871, 75805, 83221, 91171, 275413, 301567, 348200, 450857, 454071
+      name: text(NEXT EPISODE MONDAY)
+    tvdb_show: 73871, 75805, 83221, 91171, 275413, 301567, 348200, 386002, 450857,
+      454071
   TSSK_TUE 09/22:
     overlay:
       horizontal_align: center
@@ -137,7 +127,7 @@ overlays:
       group: TSSK_text
       weight: 20
       name: text(NEXT EPISODE TUE 09/22)
-    tvdb_show: '82177'
+    tvdb_show: 82177, 263328, 307119, 407107
   TSSK_SUN 09/27:
     overlay:
       horizontal_align: center
