@@ -5,6 +5,15 @@ overlays:
       added: 7
       label.not: Coming Soon, RequestNeeded
     overlay:
+      back_color: '#EB3233'
+      back_height: 90
+      back_width: 950
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 20
+      group: TSSK_backdrop
+      weight: 50
       name: backdrop
   new_show:
     plex_all: true
@@ -12,4 +21,12 @@ overlays:
       added: 7
       label.not: Coming Soon, RequestNeeded
     overlay:
-      name: text(New Show)
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 50
+      name: text(RECENTLY ADDED)

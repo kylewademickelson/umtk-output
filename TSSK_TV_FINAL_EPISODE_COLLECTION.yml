@@ -1,5 +1,5 @@
 collections:
-  ? ''
-  : plex_all: true
-    item_label.remove: ''
+  Final Episode:
+    plex_all: true
+    item_label.remove: FinalEpisode
     build_collection: false

@@ -1,13 +1,15 @@
 overlays:
-  backdrop_returning:
-    plex_all: true
-    filters:
-      tmdb_status: returning
-    overlay:
-      name: backdrop
   returning_show:
     plex_all: true
     filters:
       tmdb_status: returning
     overlay:
-      name: text(Returning)
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 50
+      font_size: 70
+      font_color: '#ff9000'
+      group: TSSK_text
+      weight: 10
+      name: text(R E T U R N I N G)

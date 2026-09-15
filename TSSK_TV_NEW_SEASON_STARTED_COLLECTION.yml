@@ -1,5 +1,5 @@
 collections:
-  ? ''
-  : plex_all: true
-    item_label.remove: ''
+  New Season Started:
+    plex_all: true
+    item_label.remove: NewSeasonStarted
     build_collection: false

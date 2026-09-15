@@ -1,6 +1,11 @@
 collections:
-  New Shows:
+  New Show:
     summary: New Shows added in the past 7 days
+    item_label: NewShow
+    non_item_remove_label: NewShow
+    build_collection: true
+    ignore_blank_results: true
+    sync_mode: sync
     plex_all: true
     filters:
       added: 7

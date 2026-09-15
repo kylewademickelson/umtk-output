@@ -1,78 +1,200 @@
 overlays:
   backdrop_upcoming_episode:
     overlay:
+      back_color: '#006580'
+      back_height: 90
+      back_width: 950
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 20
+      group: TSSK_backdrop
+      weight: 20
       name: backdrop
     tvdb_show: 70328, 70366, 70870, 71256, 71565, 71753, 71890, 71998, 72231, 72480,
       73182, 73290, 73871, 74768, 74806, 74921, 75332, 75805, 76119, 76706, 77075,
       77715, 78006, 78869, 78957, 79490, 79761, 79836, 79838, 80552, 80646, 81358,
       82177, 82623, 83221, 84669, 85074, 91171, 113701, 183411, 192351, 207701, 230991,
-      252984, 257313, 263328, 268009, 270261, 275413, 276628, 278518, 291363, 298905,
-      301567, 307119, 314008, 314342, 317346, 318512, 348200, 356338, 358072, 362161,
-      364620, 367658, 367659, 374284, 376098, 382389, 383203, 386002, 387339, 393159,
-      406321, 407107, 410241, 413871, 415089, 420507, 421076, 421306, 422752, 424620,
-      425498, 429639, 431185, 435298, 435926, 442767, 446789, 447569, 448246, 449045,
-      453187, 454071, 456028, 457781, 457953, 462404, 462451, 463597, 464042, 465664,
-      466198, 466987, 468012, 470002, 475580, 475718, 479465, 480792, 481021, 481094
+      248469, 252984, 257313, 263328, 268009, 270261, 275413, 276628, 278518, 291363,
+      298905, 301005, 301567, 307119, 314008, 314342, 317346, 318512, 348200, 356338,
+      358072, 362161, 364620, 367658, 367659, 374284, 376098, 382389, 383203, 386002,
+      387339, 393159, 400156, 406321, 407107, 410241, 413871, 415089, 420507, 421076,
+      421306, 422752, 424620, 425498, 429639, 431185, 435298, 435926, 442767, 446789,
+      447569, 448246, 449045, 450857, 453187, 454071, 456028, 457781, 457953, 462404,
+      462451, 463597, 464042, 465664, 466198, 466987, 468012, 470002, 475580, 475718,
+      479465, 480792, 481021, 481094
   TSSK_TODAY:
     overlay:
-      name: text(New Episode TODAY)
-    tvdb_show: 78006, 270261, 454071
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 20
+      name: text(NEXT EPISODE TODAY)
+    tvdb_show: '78006'
   TSSK_TOMORROW:
     overlay:
-      name: text(New Episode TOMORROW)
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 20
+      name: text(NEXT EPISODE TOMORROW)
     tvdb_show: 70328, 70366, 71256, 71565, 71753, 71890, 71998, 72480, 74768, 75332,
       77075, 77715, 79490, 79838, 80552, 84669, 113701, 183411, 192351, 207701, 230991,
-      263328, 276628, 307119, 314008, 374284, 383203, 387339, 407107, 410241, 413871,
-      420507, 422752, 424620, 447569, 449045, 457781, 464042, 481021
+      263328, 270261, 276628, 307119, 314008, 374284, 383203, 386002, 387339, 407107,
+      410241, 413871, 420507, 422752, 424620, 447569, 449045, 457781, 464042, 481021
   TSSK_WEDNESDAY:
     overlay:
-      name: text(New Episode WEDNESDAY)
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 20
+      name: text(NEXT EPISODE WEDNESDAY)
     tvdb_show: 70870, 76119, 76706, 78869, 81358, 314342, 317346, 318512, 367658,
-      406321, 415089, 425498, 429639, 435926, 462404, 475580, 481094
+      400156, 406321, 415089, 425498, 429639, 435926, 462404, 475580, 481094
   TSSK_THURSDAY:
     overlay:
-      name: text(New Episode THURSDAY)
-    tvdb_show: 79836, 298905, 356338, 362161, 382389, 393159, 431185, 435298, 446789,
-      465664
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 20
+      name: text(NEXT EPISODE THURSDAY)
+    tvdb_show: 79836, 248469, 298905, 301005, 356338, 362161, 382389, 393159, 431185,
+      435298, 446789, 465664
   TSSK_FRIDAY:
     overlay:
-      name: text(New Episode FRIDAY)
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 20
+      name: text(NEXT EPISODE FRIDAY)
     tvdb_show: 72231, 73182, 78957, 82623, 85074, 268009, 421076, 421306, 448246,
       463597, 479465
   TSSK_SATURDAY:
     overlay:
-      name: text(New Episode SATURDAY)
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 20
+      name: text(NEXT EPISODE SATURDAY)
     tvdb_show: 257313, 358072, 364620, 442767, 453187, 462451, 466987, 475718
   TSSK_SUNDAY:
     overlay:
-      name: text(New Episode SUNDAY)
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 20
+      name: text(NEXT EPISODE SUNDAY)
     tvdb_show: 73290, 74921, 79761, 252984, 278518, 291363, 376098, 456028, 457953,
       466198, 480792
-  TSSK_2026-09-21:
+  TSSK_MON 09/21:
     overlay:
-      name: text(New Episode 2026-09-21)
-    tvdb_show: 73871, 75805, 83221, 91171, 275413, 301567, 348200, 386002
-  TSSK_2026-09-22:
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 20
+      name: text(NEXT EPISODE MON 09/21)
+    tvdb_show: 73871, 75805, 83221, 91171, 275413, 301567, 348200, 450857, 454071
+  TSSK_TUE 09/22:
     overlay:
-      name: text(New Episode 2026-09-22)
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 20
+      name: text(NEXT EPISODE TUE 09/22)
     tvdb_show: '82177'
-  TSSK_2026-09-27:
+  TSSK_SUN 09/27:
     overlay:
-      name: text(New Episode 2026-09-27)
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 20
+      name: text(NEXT EPISODE SUN 09/27)
     tvdb_show: '470002'
-  TSSK_2026-09-28:
+  TSSK_MON 09/28:
     overlay:
-      name: text(New Episode 2026-09-28)
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 20
+      name: text(NEXT EPISODE MON 09/28)
     tvdb_show: '468012'
-  TSSK_2026-09-29:
+  TSSK_TUE 09/29:
     overlay:
-      name: text(New Episode 2026-09-29)
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 20
+      name: text(NEXT EPISODE TUE 09/29)
     tvdb_show: '80646'
-  TSSK_2026-10-07:
+  TSSK_WED 10/07:
     overlay:
-      name: text(New Episode 2026-10-07)
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 20
+      name: text(NEXT EPISODE WED 10/07)
     tvdb_show: '367659'
-  TSSK_2026-10-12:
+  TSSK_MON 10/12:
     overlay:
-      name: text(New Episode 2026-10-12)
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 20
+      name: text(NEXT EPISODE MON 10/12)
     tvdb_show: '74806'

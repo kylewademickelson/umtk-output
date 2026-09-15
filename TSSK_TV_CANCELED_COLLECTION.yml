@@ -1,6 +1,11 @@
 collections:
   Canceled Shows:
     summary: Shows that have been canceled
+    item_label: CanceledShows
+    non_item_remove_label: CanceledShows
+    build_collection: false
+    ignore_blank_results: true
+    sync_mode: append
     plex_all: true
     filters:
       tmdb_status: canceled
