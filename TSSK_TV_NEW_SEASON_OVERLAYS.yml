@@ -2,13 +2,6 @@ overlays:
   backdrop_new_season:
     overlay:
       name: backdrop
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 120
-      back_color: "#00000099"
     tvdb_show: 70600, 71663, 72108, 73762, 73986, 74281, 74897, 75117, 75692, 75897,
       76177, 76235, 76733, 77666, 79264, 80411, 81157, 81670, 82195, 82701, 83127,
       100981, 116811, 138551, 184871, 193711, 208111, 250487, 253695, 258541, 269641,
@@ -21,420 +14,120 @@ overlays:
   TSSK_TODAY:
     overlay:
       name: text(New Season TODAY)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: '450857'
   TSSK_TOMORROW:
     overlay:
       name: text(New Season TOMORROW)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 372264, 462583, 466025
   TSSK_WEDNESDAY:
     overlay:
       name: text(New Season WEDNESDAY)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 75897, 79264, 354216, 372309
   TSSK_THURSDAY:
     overlay:
       name: text(New Season THURSDAY)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 116811, 327172, 378982, 389492, 462906
   TSSK_FRIDAY:
     overlay:
       name: text(New Season FRIDAY)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 429964, 446831, 454711
   TSSK_SATURDAY:
     overlay:
       name: text(New Season SATURDAY)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: '83127'
   TSSK_SUNDAY:
     overlay:
       name: text(New Season SUNDAY)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 334643, 463505
   TSSK_2026-09-21:
     overlay:
       name: text(New Season 2026-09-21)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 75117, 392209, 412294, 439327, 463595
   TSSK_2026-09-22:
     overlay:
       name: text(New Season 2026-09-22)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 184871, 273761, 433263
   TSSK_2026-09-23:
     overlay:
       name: text(New Season 2026-09-23)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 76733, 80411, 82195, 463593
   TSSK_2026-09-24:
     overlay:
       name: text(New Season 2026-09-24)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 74897, 250487
   TSSK_2026-09-25:
     overlay:
       name: text(New Season 2026-09-25)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: '70600'
   TSSK_2026-09-26:
     overlay:
       name: text(New Season 2026-09-26)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: '76177'
   TSSK_2026-09-27:
     overlay:
       name: text(New Season 2026-09-27)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 71663, 76235, 420069, 423022
   TSSK_2026-09-28:
     overlay:
       name: text(New Season 2026-09-28)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: '334149'
   TSSK_2026-09-29:
     overlay:
       name: text(New Season 2026-09-29)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: '253695'
   TSSK_2026-09-30:
     overlay:
       name: text(New Season 2026-09-30)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 77666, 100981, 465690
   TSSK_2026-10-01:
     overlay:
       name: text(New Season 2026-10-01)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 435958, 471028
   TSSK_2026-10-02:
     overlay:
       name: text(New Season 2026-10-02)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 74281, 208111, 391685, 441983
   TSSK_2026-10-04:
     overlay:
       name: text(New Season 2026-10-04)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 82701, 193711, 419128, 428433, 463433
   TSSK_2026-10-05:
     overlay:
       name: text(New Season 2026-10-05)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 81670, 350071, 410743, 462856, 462960, 463434
   TSSK_2026-10-06:
     overlay:
       name: text(New Season 2026-10-06)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 72108, 444350, 456187
   TSSK_2026-10-07:
     overlay:
       name: text(New Season 2026-10-07)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 258541, 269641, 295640, 402910, 468115
   TSSK_2026-10-08:
     overlay:
       name: text(New Season 2026-10-08)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 75692, 430543, 448023
   TSSK_2026-10-09:
     overlay:
       name: text(New Season 2026-10-09)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 420063, 449708, 460392
   TSSK_2026-10-10:
     overlay:
       name: text(New Season 2026-10-10)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: '138551'
   TSSK_2026-10-11:
     overlay:
       name: text(New Season 2026-10-11)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: '303252'
   TSSK_2026-10-14:
     overlay:
       name: text(New Season 2026-10-14)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 73986, 81157, 450085
   TSSK_2026-10-15:
     overlay:
       name: text(New Season 2026-10-15)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: 73762, 337907, 415239, 460463
   TSSK_2026-10-16:
     overlay:
       name: text(New Season 2026-10-16)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
     tvdb_show: '413215'

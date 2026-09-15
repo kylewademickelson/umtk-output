@@ -2,13 +2,6 @@ overlays:
   backdrop_upcoming_finale:
     overlay:
       name: backdrop
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 120
-      back_color: "#00000099"
     tvdb_show: 72746, 78847, 80117, 80748, 82148, 82918, 83774, 166251, 248469, 248888,
       258204, 258255, 262788, 267570, 268356, 296830, 301005, 366924, 369988, 375704,
       387515, 388589, 397303, 400156, 420283, 422444, 435852, 455420, 457446, 461892,
@@ -16,99 +9,29 @@ overlays:
   TSSK_TOMORROW:
     overlay:
       name: text(Finale TOMORROW)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#9B1C1C"
     tvdb_show: 262788, 267570, 268356, 387515, 420283, 422444, 435852
   TSSK_WEDNESDAY:
     overlay:
       name: text(Finale WEDNESDAY)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#9B1C1C"
     tvdb_show: 296830, 366924, 375704, 400156, 477675
   TSSK_THURSDAY:
     overlay:
       name: text(Finale THURSDAY)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#9B1C1C"
     tvdb_show: 80117, 248469, 258255, 301005, 467089
   TSSK_FRIDAY:
     overlay:
       name: text(Finale FRIDAY)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#9B1C1C"
     tvdb_show: 82918, 464732, 479490, 480896
   TSSK_SUNDAY:
     overlay:
       name: text(Finale SUNDAY)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#9B1C1C"
     tvdb_show: 83774, 258204, 388589, 397303
   TSSK_2026-09-21:
     overlay:
       name: text(Finale 2026-09-21)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#9B1C1C"
     tvdb_show: 72746, 80748, 82148, 166251, 248888, 369988, 455420, 457446, 461892,
       473193
   TSSK_2026-09-27:
     overlay:
       name: text(Finale 2026-09-27)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#9B1C1C"
     tvdb_show: '78847'
