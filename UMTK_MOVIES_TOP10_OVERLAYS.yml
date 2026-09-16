@@ -15,9 +15,9 @@ overlays:
   trending_top10_1:
     overlay:
       name: text(#1)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -29,9 +29,9 @@ overlays:
   trending_top10_2:
     overlay:
       name: text(#2)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -43,9 +43,9 @@ overlays:
   trending_top10_3:
     overlay:
       name: text(#3)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -57,9 +57,9 @@ overlays:
   trending_top10_4:
     overlay:
       name: text(#4)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -71,9 +71,9 @@ overlays:
   trending_top10_5:
     overlay:
       name: text(#5)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -85,9 +85,9 @@ overlays:
   trending_top10_6:
     overlay:
       name: text(#6)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -99,9 +99,9 @@ overlays:
   trending_top10_7:
     overlay:
       name: text(#7)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -113,9 +113,9 @@ overlays:
   trending_top10_8:
     overlay:
       name: text(#8)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -127,9 +127,9 @@ overlays:
   trending_top10_9:
     overlay:
       name: text(#9)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -141,9 +141,9 @@ overlays:
   trending_top10_10:
     overlay:
       name: text(#10)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -155,9 +155,9 @@ overlays:
   trending_top10_11:
     overlay:
       name: text(#11)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -169,9 +169,9 @@ overlays:
   trending_top10_12:
     overlay:
       name: text(#12)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -183,9 +183,9 @@ overlays:
   trending_top10_13:
     overlay:
       name: text(#13)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -197,9 +197,9 @@ overlays:
   trending_top10_14:
     overlay:
       name: text(#14)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -211,9 +211,9 @@ overlays:
   trending_top10_15:
     overlay:
       name: text(#15)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -225,9 +225,9 @@ overlays:
   trending_top10_16:
     overlay:
       name: text(#16)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -239,9 +239,9 @@ overlays:
   trending_top10_17:
     overlay:
       name: text(#17)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -253,9 +253,9 @@ overlays:
   trending_top10_18:
     overlay:
       name: text(#18)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -267,9 +267,9 @@ overlays:
   trending_top10_19:
     overlay:
       name: text(#19)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -281,9 +281,9 @@ overlays:
   trending_top10_20:
     overlay:
       name: text(#20)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100

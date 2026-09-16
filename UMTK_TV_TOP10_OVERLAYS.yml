@@ -14,9 +14,9 @@ overlays:
   trending_top10_1_tvdb:
     overlay:
       name: text(#1)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -28,9 +28,9 @@ overlays:
   trending_top10_2_tvdb:
     overlay:
       name: text(#2)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -42,9 +42,9 @@ overlays:
   trending_top10_3_tvdb:
     overlay:
       name: text(#3)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -56,9 +56,9 @@ overlays:
   trending_top10_4_tvdb:
     overlay:
       name: text(#4)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -70,9 +70,9 @@ overlays:
   trending_top10_5_tvdb:
     overlay:
       name: text(#5)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -84,9 +84,9 @@ overlays:
   trending_top10_6_tvdb:
     overlay:
       name: text(#6)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -98,9 +98,9 @@ overlays:
   trending_top10_7_tvdb:
     overlay:
       name: text(#7)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -112,9 +112,9 @@ overlays:
   trending_top10_8_tvdb:
     overlay:
       name: text(#8)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -126,9 +126,9 @@ overlays:
   trending_top10_9_tvdb:
     overlay:
       name: text(#9)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -140,9 +140,9 @@ overlays:
   trending_top10_10_tvdb:
     overlay:
       name: text(#10)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -154,9 +154,9 @@ overlays:
   trending_top10_11_tvdb:
     overlay:
       name: text(#11)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -168,9 +168,9 @@ overlays:
   trending_top10_12_tvdb:
     overlay:
       name: text(#12)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -182,9 +182,9 @@ overlays:
   trending_top10_13_tvdb:
     overlay:
       name: text(#13)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -196,9 +196,9 @@ overlays:
   trending_top10_14_tvdb:
     overlay:
       name: text(#14)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -210,9 +210,9 @@ overlays:
   trending_top10_15_tvdb:
     overlay:
       name: text(#15)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -224,9 +224,9 @@ overlays:
   trending_top10_16_tvdb:
     overlay:
       name: text(#16)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -238,9 +238,9 @@ overlays:
   trending_top10_17_tvdb:
     overlay:
       name: text(#17)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
@@ -252,9 +252,9 @@ overlays:
   trending_top10_18_tvdb:
     overlay:
       name: text(#18)
-      horizontal_align: center
+      horizontal_align: right
       vertical_align: top
-      horizontal_offset: 0
+      horizontal_offset: 15
       vertical_offset: 15
       back_width: 170
       back_height: 100
