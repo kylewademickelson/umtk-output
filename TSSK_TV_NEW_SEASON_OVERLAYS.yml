@@ -20,7 +20,7 @@ overlays:
       444350, 444584, 448023, 449708, 450085, 451143, 452868, 453660, 456187, 458350,
       460392, 460463, 462856, 462960, 463433, 463434, 463505, 463593, 463595, 465146,
       465690, 468115, 468742, 471028
-  TSSK_TOMORROW_S24:
+  TSSK_TODAY_S24:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -30,9 +30,9 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 24 AIRS TOMORROW)
+      name: text(SEASON 24 AIRS TODAY)
     tvdb_show: '83127'
-  TSSK_SUNDAY_S2:
+  TSSK_TOMORROW_S2:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -42,9 +42,9 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 2 AIRS SUNDAY)
+      name: text(SEASON 2 AIRS TOMORROW)
     tvdb_show: 444584, 463505
-  TSSK_SUNDAY_S15:
+  TSSK_TOMORROW_S15:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -54,7 +54,7 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 15 AIRS SUNDAY)
+      name: text(SEASON 15 AIRS TOMORROW)
     tvdb_show: '334643'
   TSSK_MONDAY_S2:
     overlay:
@@ -236,7 +236,7 @@ overlays:
       weight: 25
       name: text(SEASON 25 AIRS THURSDAY)
     tvdb_show: '74897'
-  TSSK_FRI 09/25_S34:
+  TSSK_FRIDAY_S34:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -246,9 +246,9 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 34 AIRS FRI 09/25)
+      name: text(SEASON 34 AIRS FRIDAY)
     tvdb_show: '80660'
-  TSSK_FRI 09/25_S35:
+  TSSK_FRIDAY_S35:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -258,7 +258,7 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 35 AIRS FRI 09/25)
+      name: text(SEASON 35 AIRS FRIDAY)
     tvdb_show: '70600'
   TSSK_SAT 09/26_S2:
     overlay:
