@@ -11,10 +11,10 @@ overlays:
       group: TSSK_backdrop
       weight: 40
       name: backdrop
-    tvdb_show: 76548, 78847, 78957, 79264, 81358, 82623, 83231, 166251, 248469, 258204,
-      301005, 305621, 362161, 369988, 378982, 382389, 388589, 400156, 406321, 410241,
-      429639, 431185, 435298, 442655, 446163, 446789, 451286, 457446, 462404, 464042,
-      464732, 465664, 481021, 481094
+    tvdb_show: 76548, 78847, 78957, 79264, 81358, 82623, 82918, 83127, 83231, 166251,
+      248469, 301005, 305621, 358072, 362161, 369988, 378982, 382389, 400156, 406321,
+      410241, 429639, 431185, 435298, 442655, 442767, 446163, 446789, 451286, 457446,
+      462404, 464042, 464732, 465664, 481021, 481094
   TSSK_TOMORROW:
     overlay:
       horizontal_align: center
@@ -26,18 +26,6 @@ overlays:
       group: TSSK_text
       weight: 40
       name: text(FINALE AIRS TOMORROW)
-    tvdb_show: 258204, 388589
-  TSSK_MONDAY:
-    overlay:
-      horizontal_align: center
-      horizontal_offset: 0
-      vertical_align: bottom
-      vertical_offset: 35
-      font_size: 70
-      font_color: '#FFFFFF'
-      group: TSSK_text
-      weight: 40
-      name: text(FINALE AIRS MONDAY)
     tvdb_show: 166251, 305621, 369988, 457446
   TSSK_TUESDAY:
     overlay:
@@ -88,6 +76,18 @@ overlays:
       weight: 40
       name: text(FINALE AIRS FRIDAY)
     tvdb_show: 78957, 82623, 464732
+  TSSK_SATURDAY:
+    overlay:
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 40
+      name: text(FINALE AIRS SATURDAY)
+    tvdb_show: 83127, 358072, 442767
   TSSK_SUN 09/27:
     overlay:
       horizontal_align: center
@@ -124,3 +124,15 @@ overlays:
       weight: 40
       name: text(FINALE AIRS THU 10/01)
     tvdb_show: 76548, 446163
+  TSSK_FRI 10/02:
+    overlay:
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 40
+      name: text(FINALE AIRS FRI 10/02)
+    tvdb_show: '82918'
