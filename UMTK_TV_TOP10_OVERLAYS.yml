@@ -10,8 +10,8 @@ overlays:
       back_height: 120
       back_color: "#00000099"
     tvdb_show: 455064, 426845, 376098, 366924, 446831, 372264, 388589, 383203, 403245,
-      468000, 451782, 393159, 382389, 465664, 466025, 435298, 75897, 75805, 449390,
-      384968
+      468000, 451782, 393159, 382389, 465664, 250487, 466025, 435298, 75897, 75805,
+      449390
   trending_top10_1_tvdb:
     overlay:
       name: text(#1)
@@ -221,7 +221,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '466025'
+    tvdb_show: '250487'
   trending_top10_16_tvdb:
     overlay:
       name: text(#16)
@@ -235,7 +235,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '435298'
+    tvdb_show: '466025'
   trending_top10_17_tvdb:
     overlay:
       name: text(#17)
@@ -249,7 +249,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '75897'
+    tvdb_show: '435298'
   trending_top10_18_tvdb:
     overlay:
       name: text(#18)
@@ -263,7 +263,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '75805'
+    tvdb_show: '75897'
   trending_top10_19_tvdb:
     overlay:
       name: text(#19)
@@ -277,7 +277,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '449390'
+    tvdb_show: '75805'
   trending_top10_20_tvdb:
     overlay:
       name: text(#20)
@@ -291,4 +291,4 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '384968'
+    tvdb_show: '449390'
