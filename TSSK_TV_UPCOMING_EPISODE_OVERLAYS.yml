@@ -36,7 +36,7 @@ overlays:
       group: TSSK_text
       weight: 20
       name: text(NEXT EPISODE TODAY)
-    tvdb_show: 73182, 80297, 83127, 421076, 453675, 462451, 466987, 468257, 475718
+    tvdb_show: 73182, 80297, 83127, 421076, 453675, 462451, 466987, 468257
   TSSK_TOMORROW:
     overlay:
       horizontal_align: center
@@ -129,7 +129,7 @@ overlays:
       group: TSSK_text
       weight: 20
       name: text(NEXT EPISODE SAT 10/03)
-    tvdb_show: '453187'
+    tvdb_show: 453187, 475718
   TSSK_SUN 10/04:
     overlay:
       horizontal_align: center
