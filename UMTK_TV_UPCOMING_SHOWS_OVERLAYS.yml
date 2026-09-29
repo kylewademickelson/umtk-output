@@ -1932,28 +1932,3 @@ overlays:
       480636, 480684, 480792, 480861, 480896, 480923, 481021, 481036, 481094, 481189,
       481198, 481302, 481321, 481452, 481458, 481586, 481707, 481847, 481893, 481946,
       481960, 481970, 482110, 482259, 482620
-  backdrop_trending_request_tvdb:
-    overlay:
-      name: backdrop
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 120
-      back_color: "#00000099"
-    tvdb_show: '449390'
-  UMTK_trending_request_tvdb:
-    overlay:
-      name: text(Request Needed)
-      horizontal_align: center
-      vertical_align: bottom
-      horizontal_offset: 0
-      vertical_offset: 0
-      back_width: 1000
-      back_height: 110
-      back_radius: 40
-      font_size: 63
-      font_color: "#FFFFFF"
-      back_color: "#01807E"
-    tvdb_show: '449390'
