@@ -10,8 +10,8 @@ overlays:
       back_height: 120
       back_color: "#00000099"
     tvdb_show: 430034, 376098, 446831, 383203, 250487, 372264, 455064, 366924, 388589,
-      393159, 451782, 75897, 382389, 400187, 465690, 478738, 75805, 462907, 466025,
-      435298
+      393159, 451782, 455755, 75897, 382389, 400187, 465690, 478738, 75692, 75805,
+      462907
   trending_top10_1_tvdb:
     overlay:
       name: text(#1)
@@ -179,7 +179,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '75897'
+    tvdb_show: '455755'
   trending_top10_13_tvdb:
     overlay:
       name: text(#13)
@@ -193,7 +193,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '382389'
+    tvdb_show: '75897'
   trending_top10_14_tvdb:
     overlay:
       name: text(#14)
@@ -207,7 +207,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '400187'
+    tvdb_show: '382389'
   trending_top10_15_tvdb:
     overlay:
       name: text(#15)
@@ -221,7 +221,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '465690'
+    tvdb_show: '400187'
   trending_top10_16_tvdb:
     overlay:
       name: text(#16)
@@ -235,7 +235,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '478738'
+    tvdb_show: '465690'
   trending_top10_17_tvdb:
     overlay:
       name: text(#17)
@@ -249,7 +249,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '75805'
+    tvdb_show: '478738'
   trending_top10_18_tvdb:
     overlay:
       name: text(#18)
@@ -263,7 +263,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '462907'
+    tvdb_show: '75692'
   trending_top10_19_tvdb:
     overlay:
       name: text(#19)
@@ -277,7 +277,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '466025'
+    tvdb_show: '75805'
   trending_top10_20_tvdb:
     overlay:
       name: text(#20)
@@ -291,4 +291,4 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '435298'
+    tvdb_show: '462907'
