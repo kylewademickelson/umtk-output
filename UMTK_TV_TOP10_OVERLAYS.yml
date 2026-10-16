@@ -10,8 +10,8 @@ overlays:
       back_height: 120
       back_color: "#00000099"
     tvdb_show: 455755, 430034, 376098, 383203, 446831, 372264, 250487, 460458, 455064,
-      366924, 388589, 393159, 451782, 463435, 75692, 75897, 400187, 476836, 75805,
-      465690
+      366924, 388589, 393159, 451782, 463435, 75692, 75897, 426606, 400187, 73762,
+      476836
   trending_top10_1_tvdb:
     overlay:
       name: text(#1)
@@ -249,7 +249,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '400187'
+    tvdb_show: '426606'
   trending_top10_18_tvdb:
     overlay:
       name: text(#18)
@@ -263,7 +263,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '476836'
+    tvdb_show: '400187'
   trending_top10_19_tvdb:
     overlay:
       name: text(#19)
@@ -277,7 +277,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '75805'
+    tvdb_show: '73762'
   trending_top10_20_tvdb:
     overlay:
       name: text(#20)
@@ -291,4 +291,4 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '465690'
+    tvdb_show: '476836'
