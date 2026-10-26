@@ -1,12 +1,12 @@
 collections:
   Trending Shows:
-    tvdb_show: 455755, 426669, 430034, 426606, 415239, 446831, 372264, 467092, 376098,
-      383203, 413215, 250487, 460458, 393654, 393159, 75897, 463435, 450085, 73762,
-      75692
+    tvdb_show: 455755, 426669, 426606, 372264, 446831, 415239, 430034, 450093, 467092,
+      375921, 464467, 250487, 413215, 383203, 460458, 376098, 393159, 393654, 463435,
+      75897
     sync_mode: sync
   RequestNeededTV:
     item_label: RequestNeeded
     non_item_remove_label: RequestNeeded
     build_collection: false
     sync_mode: append
-    tvdb_show: '460458'
+    tvdb_show: 375921, 460458
