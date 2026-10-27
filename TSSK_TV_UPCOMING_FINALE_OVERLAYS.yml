@@ -11,12 +11,12 @@ overlays:
       group: TSSK_backdrop
       weight: 40
       name: backdrop
-    tvdb_show: 70870, 72150, 74768, 75117, 76235, 80411, 80748, 82195, 83929, 138401,
-      138981, 189931, 204951, 230991, 248469, 250487, 253695, 257313, 262788, 266449,
-      269135, 272249, 280400, 289098, 301567, 301814, 334643, 353740, 379910, 391288,
-      392209, 393159, 410241, 422548, 424620, 426114, 433151, 439940, 440025, 440706,
-      459746, 461892, 462583, 462907, 463593, 463595, 466025, 467809, 470000, 474842,
-      477438, 478173, 478738, 482124, 483695
+    tvdb_show: 70870, 72150, 72746, 74768, 76235, 80411, 80748, 82195, 83221, 138981,
+      204951, 248469, 248888, 250487, 253695, 257313, 262788, 266449, 272249, 280400,
+      289098, 301814, 324126, 334643, 353129, 353740, 379910, 391288, 392209, 393159,
+      406379, 410587, 422548, 424620, 426114, 433151, 439940, 440025, 440706, 459746,
+      462583, 462907, 463434, 463593, 463595, 464390, 466025, 470000, 474842, 478173,
+      478738, 482124, 483695
   TSSK_TODAY:
     overlay:
       horizontal_align: center
@@ -28,7 +28,7 @@ overlays:
       group: TSSK_text
       weight: 40
       name: text(FINALE AIRS TODAY)
-    tvdb_show: 75117, 230991, 301567, 461892, 467809, 477438, 482124
+    tvdb_show: 253695, 272249, 301814, 424620, 462583, 466025, 478738, 483695
   TSSK_TOMORROW:
     overlay:
       horizontal_align: center
@@ -40,20 +40,7 @@ overlays:
       group: TSSK_text
       weight: 40
       name: text(FINALE AIRS TOMORROW)
-    tvdb_show: 138981, 253695, 269135, 272249, 301814, 410241, 424620, 462583, 466025,
-      478738, 483695
-  TSSK_WEDNESDAY:
-    overlay:
-      horizontal_align: center
-      horizontal_offset: 0
-      vertical_align: bottom
-      vertical_offset: 35
-      font_size: 70
-      font_color: '#FFFFFF'
-      group: TSSK_text
-      weight: 40
-      name: text(FINALE AIRS WEDNESDAY)
-    tvdb_show: 70870, 80411, 82195, 83929, 379910, 426114, 439940, 478173
+    tvdb_show: 70870, 80411, 82195, 379910, 426114, 439940, 478173
   TSSK_THURSDAY:
     overlay:
       horizontal_align: center
@@ -65,7 +52,7 @@ overlays:
       group: TSSK_text
       weight: 40
       name: text(FINALE AIRS THURSDAY)
-    tvdb_show: 189931, 248469, 250487, 262788, 280400, 393159, 422548
+    tvdb_show: 248469, 250487, 262788, 280400, 393159, 422548
   TSSK_FRIDAY:
     overlay:
       horizontal_align: center
@@ -103,7 +90,7 @@ overlays:
       name: text(FINALE AIRS SUNDAY)
     tvdb_show: 72150, 74768, 76235, 334643, 391288, 433151, 440706, 462907, 470000,
       474842
-  TSSK_MON 11/02:
+  TSSK_MONDAY:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -113,8 +100,9 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 40
-      name: text(FINALE AIRS MON 11/02)
-    tvdb_show: 80748, 138401, 392209, 440025, 459746, 463595
+      name: text(FINALE AIRS MONDAY)
+    tvdb_show: 72746, 80748, 83221, 138981, 248888, 324126, 392209, 406379, 410587,
+      440025, 459746, 463434, 463595, 464390, 482124
   TSSK_WED 11/04:
     overlay:
       horizontal_align: center
@@ -127,6 +115,18 @@ overlays:
       weight: 40
       name: text(FINALE AIRS WED 11/04)
     tvdb_show: '463593'
+  TSSK_THU 11/05:
+    overlay:
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 40
+      name: text(FINALE AIRS THU 11/05)
+    tvdb_show: '353129'
   TSSK_WED 11/18:
     overlay:
       horizontal_align: center
