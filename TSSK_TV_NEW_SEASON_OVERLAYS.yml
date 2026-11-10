@@ -12,9 +12,10 @@ overlays:
       weight: 25
       name: backdrop
     tvdb_show: 71067, 78419, 80851, 207621, 261109, 276515, 278266, 279264, 289239,
-      356405, 356992, 366049, 368012, 392331, 399731, 399959, 408436, 415151, 421654,
-      425498, 440472, 442050, 450161, 453171, 457402, 458633, 460751, 461637, 482513
-  TSSK_TOMORROW_S2:
+      293989, 356405, 356992, 363580, 366049, 368012, 392331, 399731, 399959, 408436,
+      415151, 421654, 425498, 440472, 442050, 450161, 453171, 457402, 458633, 460751,
+      461637, 482513
+  TSSK_TODAY_S2:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -24,8 +25,32 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 2 AIRS TOMORROW)
+      name: text(SEASON 2 AIRS TODAY)
     tvdb_show: '453171'
+  TSSK_TODAY_S3:
+    overlay:
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 25
+      name: text(SEASON 3 AIRS TODAY)
+    tvdb_show: '461637'
+  TSSK_TODAY_S14:
+    overlay:
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 25
+      name: text(SEASON 14 AIRS TODAY)
+    tvdb_show: 276515, 289239, 363580
   TSSK_TOMORROW_S3:
     overlay:
       horizontal_align: center
@@ -37,30 +62,6 @@ overlays:
       group: TSSK_text
       weight: 25
       name: text(SEASON 3 AIRS TOMORROW)
-    tvdb_show: '461637'
-  TSSK_TOMORROW_S14:
-    overlay:
-      horizontal_align: center
-      horizontal_offset: 0
-      vertical_align: bottom
-      vertical_offset: 35
-      font_size: 70
-      font_color: '#FFFFFF'
-      group: TSSK_text
-      weight: 25
-      name: text(SEASON 14 AIRS TOMORROW)
-    tvdb_show: 276515, 289239
-  TSSK_WEDNESDAY_S3:
-    overlay:
-      horizontal_align: center
-      horizontal_offset: 0
-      vertical_align: bottom
-      vertical_offset: 35
-      font_size: 70
-      font_color: '#FFFFFF'
-      group: TSSK_text
-      weight: 25
-      name: text(SEASON 3 AIRS WEDNESDAY)
     tvdb_show: '450161'
   TSSK_THURSDAY_S3:
     overlay:
@@ -134,7 +135,7 @@ overlays:
       weight: 25
       name: text(SEASON 6 AIRS SUNDAY)
     tvdb_show: '356992'
-  TSSK_MON 11/16_S2:
+  TSSK_MONDAY_S2:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -144,9 +145,9 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 2 AIRS MON 11/16)
+      name: text(SEASON 2 AIRS MONDAY)
     tvdb_show: '482513'
-  TSSK_MON 11/16_S26:
+  TSSK_MONDAY_S26:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -156,7 +157,7 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 26 AIRS MON 11/16)
+      name: text(SEASON 26 AIRS MONDAY)
     tvdb_show: '71067'
   TSSK_TUE 11/17_S8:
     overlay:
@@ -170,6 +171,18 @@ overlays:
       weight: 25
       name: text(SEASON 8 AIRS TUE 11/17)
     tvdb_show: '368012'
+  TSSK_TUE 11/17_S18:
+    overlay:
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 25
+      name: text(SEASON 18 AIRS TUE 11/17)
+    tvdb_show: '293989'
   TSSK_TUE 11/17_S45:
     overlay:
       horizontal_align: center
