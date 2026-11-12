@@ -10,8 +10,8 @@ overlays:
       back_height: 120
       back_color: "#00000099"
     tvdb_show: 446831, 430654, 441315, 452595, 426606, 372264, 467092, 426669, 415239,
-      450093, 364412, 413215, 464467, 446897, 375921, 455562, 452135, 400267, 250487,
-      73762
+      450093, 364412, 413215, 446897, 375921, 455562, 452135, 400267, 250487, 73762,
+      393159
   trending_top10_1_tvdb:
     overlay:
       name: text(#1)
@@ -193,7 +193,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '464467'
+    tvdb_show: '446897'
   trending_top10_14_tvdb:
     overlay:
       name: text(#14)
@@ -207,7 +207,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '446897'
+    tvdb_show: '375921'
   trending_top10_15_tvdb:
     overlay:
       name: text(#15)
@@ -221,7 +221,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '375921'
+    tvdb_show: '455562'
   trending_top10_16_tvdb:
     overlay:
       name: text(#16)
@@ -235,7 +235,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '455562'
+    tvdb_show: '452135'
   trending_top10_17_tvdb:
     overlay:
       name: text(#17)
@@ -249,7 +249,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '452135'
+    tvdb_show: '400267'
   trending_top10_18_tvdb:
     overlay:
       name: text(#18)
@@ -263,7 +263,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '400267'
+    tvdb_show: '250487'
   trending_top10_19_tvdb:
     overlay:
       name: text(#19)
@@ -277,7 +277,7 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '250487'
+    tvdb_show: '73762'
   trending_top10_20_tvdb:
     overlay:
       name: text(#20)
@@ -291,4 +291,4 @@ overlays:
       font_size: 60
       font_color: "#111111"
       back_color: "#F2C94C"
-    tvdb_show: '73762'
+    tvdb_show: '393159'
