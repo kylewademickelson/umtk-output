@@ -14,7 +14,7 @@ overlays:
     tvdb_show: 71067, 78419, 80851, 207621, 261109, 278266, 279264, 293989, 356405,
       356992, 366049, 368012, 392331, 399731, 399959, 408436, 415151, 421654, 425498,
       440472, 442050, 455285, 457402, 458633, 460751, 482513
-  TSSK_TOMORROW_S3:
+  TSSK_TODAY_S3:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -24,9 +24,9 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 3 AIRS TOMORROW)
+      name: text(SEASON 3 AIRS TODAY)
     tvdb_show: '457402'
-  TSSK_TOMORROW_S11:
+  TSSK_TODAY_S11:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -36,9 +36,9 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 11 AIRS TOMORROW)
+      name: text(SEASON 11 AIRS TODAY)
     tvdb_show: '261109'
-  TSSK_TOMORROW_S12:
+  TSSK_TODAY_S12:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -48,7 +48,7 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 12 AIRS TOMORROW)
+      name: text(SEASON 12 AIRS TODAY)
     tvdb_show: '278266'
   TSSK_SATURDAY_S3:
     overlay:
