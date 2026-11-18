@@ -11,10 +11,10 @@ overlays:
       group: TSSK_backdrop
       weight: 25
       name: backdrop
-    tvdb_show: 73182, 78419, 80851, 183411, 207621, 279264, 293989, 305167, 356405,
-      366049, 368012, 399731, 399959, 408436, 415151, 421654, 425498, 440472, 452358,
-      453634, 453907, 454932, 455285, 458633, 460751
-  TSSK_TODAY_S8:
+    tvdb_show: 73182, 78419, 80851, 207621, 305167, 319742, 356405, 366049, 399731,
+      399959, 408436, 415151, 421654, 425498, 438590, 440472, 452358, 453634, 453907,
+      454932, 455285, 458633, 460751
+  TSSK_TOMORROW_S2:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -24,57 +24,9 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 8 AIRS TODAY)
-    tvdb_show: '368012'
-  TSSK_TODAY_S18:
-    overlay:
-      horizontal_align: center
-      horizontal_offset: 0
-      vertical_align: bottom
-      vertical_offset: 35
-      font_size: 70
-      font_color: '#FFFFFF'
-      group: TSSK_text
-      weight: 25
-      name: text(SEASON 18 AIRS TODAY)
-    tvdb_show: '293989'
-  TSSK_TODAY_S45:
-    overlay:
-      horizontal_align: center
-      horizontal_offset: 0
-      vertical_align: bottom
-      vertical_offset: 35
-      font_size: 70
-      font_color: '#FFFFFF'
-      group: TSSK_text
-      weight: 25
-      name: text(SEASON 45 AIRS TODAY)
-    tvdb_show: '279264'
-  TSSK_TODAY_S211:
-    overlay:
-      horizontal_align: center
-      horizontal_offset: 0
-      vertical_align: bottom
-      vertical_offset: 35
-      font_size: 70
-      font_color: '#FFFFFF'
-      group: TSSK_text
-      weight: 25
-      name: text(SEASON 211 AIRS TODAY)
-    tvdb_show: '183411'
-  TSSK_THURSDAY_S2:
-    overlay:
-      horizontal_align: center
-      horizontal_offset: 0
-      vertical_align: bottom
-      vertical_offset: 35
-      font_size: 70
-      font_color: '#FFFFFF'
-      group: TSSK_text
-      weight: 25
-      name: text(SEASON 2 AIRS THURSDAY)
+      name: text(SEASON 2 AIRS TOMORROW)
     tvdb_show: 458633, 460751
-  TSSK_THURSDAY_S7:
+  TSSK_TOMORROW_S7:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -84,7 +36,7 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 7 AIRS THURSDAY)
+      name: text(SEASON 7 AIRS TOMORROW)
     tvdb_show: '366049'
   TSSK_FRIDAY_S3:
     overlay:
@@ -182,6 +134,18 @@ overlays:
       weight: 25
       name: text(SEASON 19 AIRS SAT 11/28)
     tvdb_show: '207621'
+  TSSK_MON 11/30_S3:
+    overlay:
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 25
+      name: text(SEASON 3 AIRS MON 11/30)
+    tvdb_show: '438590'
   TSSK_TUE 12/01_S2:
     overlay:
       horizontal_align: center
@@ -218,6 +182,18 @@ overlays:
       weight: 25
       name: text(SEASON 3 AIRS FRI 12/04)
     tvdb_show: 356405, 455285
+  TSSK_SUN 12/06_S7:
+    overlay:
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 25
+      name: text(SEASON 7 AIRS SUN 12/06)
+    tvdb_show: '319742'
   TSSK_MON 12/07_S2:
     overlay:
       horizontal_align: center
