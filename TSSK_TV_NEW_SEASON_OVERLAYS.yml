@@ -12,8 +12,8 @@ overlays:
       weight: 25
       name: backdrop
     tvdb_show: 207621, 302782, 305167, 319742, 356405, 364439, 368638, 397807, 399959,
-      408436, 421654, 425498, 431527, 438590, 440472, 452358, 453634, 454932, 455285
-  TSSK_TOMORROW_S2:
+      408436, 421654, 425498, 431527, 438590, 440147, 452358, 453634, 454932, 455285
+  TSSK_TODAY_S2:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -23,8 +23,8 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 2 AIRS TOMORROW)
-    tvdb_show: 421654, 440472
+      name: text(SEASON 2 AIRS TODAY)
+    tvdb_show: '421654'
   TSSK_SATURDAY_S19:
     overlay:
       horizontal_align: center
@@ -85,7 +85,7 @@ overlays:
       weight: 25
       name: text(SEASON 9 AIRS TUESDAY)
     tvdb_show: '431527'
-  TSSK_WED 12/02_S3:
+  TSSK_WEDNESDAY_S3:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -95,9 +95,9 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 3 AIRS WED 12/02)
+      name: text(SEASON 3 AIRS WEDNESDAY)
     tvdb_show: '452358'
-  TSSK_WED 12/02_S9:
+  TSSK_WEDNESDAY_S9:
     overlay:
       horizontal_align: center
       horizontal_offset: 0
@@ -107,7 +107,7 @@ overlays:
       font_color: '#FFFFFF'
       group: TSSK_text
       weight: 25
-      name: text(SEASON 9 AIRS WED 12/02)
+      name: text(SEASON 9 AIRS WEDNESDAY)
     tvdb_show: '302782'
   TSSK_THU 12/03_S3:
     overlay:
@@ -181,6 +181,18 @@ overlays:
       weight: 25
       name: text(SEASON 20 AIRS WED 12/09)
     tvdb_show: '425498'
+  TSSK_THU 12/10_S4:
+    overlay:
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: bottom
+      vertical_offset: 35
+      font_size: 70
+      font_color: '#FFFFFF'
+      group: TSSK_text
+      weight: 25
+      name: text(SEASON 4 AIRS THU 12/10)
+    tvdb_show: '440147'
   TSSK_SUN 12/13_S3:
     overlay:
       horizontal_align: center
